@@ -1,0 +1,9 @@
+.diagram { border: 1px solid var(--academic-border); border-radius: 8px; padding: 1rem; margin: 1.5rem 0; }
+.controls { display: flex; flex-wrap: wrap; gap: .5rem; }
+.controls button[aria-pressed='true'] { outline: 2px solid var(--ifm-color-primary); }
+.zoom { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; margin: 1rem 0; }
+.viewport { max-height: 480px; overflow: auto; margin-bottom: 1rem; background: #f3f6f9; }
+.viewport svg { width: 100%; height: auto; display: block; }
+.fundamentos [data-stage='fundamentos'] rect,
+.plan [data-stage='plan'] rect,
+.trayectoria [data-stage='trayectoria'] rect { stroke: #244e73; stroke-width: 5px; }

@@ -1,0 +1,71 @@
+name: Publicar documentación en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.event_name == 'pull_request' && github.ref || 'production' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    name: Verificar y construir
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener repositorio e historial de los documentos
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Instalar dependencias reproducibles
+        run: npm ci
+
+      - name: Verificar generación y documentos originales
+        run: npm test
+
+      - name: Comprobar TypeScript
+        run: npm run typecheck
+
+      - name: Construir sitio y búsqueda local
+        run: npm run build
+
+      - name: Verificar que las fuentes originales no cambiaron
+        run: git diff --exit-code -- proyecto anexo-1-plan 'PU-Plan2026-SACAU (3).md'
+
+      - name: Preparar artefacto de Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    name: Publicar
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Desplegar sitio
+        id: deployment
+        uses: actions/deploy-pages@v4
