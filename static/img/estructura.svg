@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 310" fill="none">
+  <rect x="1" y="1" width="358" height="308" rx="18" fill="#f3f6f9" stroke="#dce3eb"/>
+  <path d="M180 87v32m0 48v32" stroke="#7890a6" stroke-width="2"/>
+  <g data-stage="fundamentos">
+    <rect x="44" y="35" width="272" height="52" rx="8" fill="#183653"/>
+    <text x="180" y="67" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="16">Fundamentos y objetivos</text>
+  </g>
+  <g data-stage="plan">
+    <rect x="44" y="119" width="272" height="48" rx="8" fill="#fff" stroke="#7890a6"/>
+    <text x="180" y="149" text-anchor="middle" fill="#183653" font-family="system-ui,sans-serif" font-size="16">Plan de Estudios · SACAU</text>
+  </g>
+  <g data-stage="trayectoria">
+    <rect x="44" y="199" width="272" height="48" rx="8" fill="#fff" stroke="#7890a6"/>
+    <text x="180" y="229" text-anchor="middle" fill="#183653" font-family="system-ui,sans-serif" font-size="16">Trayectoria académica</text>
+  </g>
+  <text x="180" y="281" text-anchor="middle" fill="#536273" font-family="system-ui,sans-serif" font-size="12">PROGRAMADOR UNIVERSITARIO DE SISTEMAS</text>
+</svg>

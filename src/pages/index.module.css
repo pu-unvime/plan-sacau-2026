@@ -1,0 +1,32 @@
+.hero {
+  background: linear-gradient(120deg, var(--academic-surface) 0%, var(--ifm-background-color) 100%);
+  border-bottom: 1px solid var(--academic-border);
+  padding: 5.5rem 0 4.5rem;
+}
+.heroGrid { display: grid; grid-template-columns: 1.65fr 1fr; gap: 4rem; align-items: center; }
+.eyebrow { font-size: .75rem; font-weight: 700; letter-spacing: .14em; color: var(--ifm-color-primary); margin-bottom: 1.2rem; }
+.title { font-size: clamp(2.4rem, 4.4vw, 3.8rem); line-height: 1.12; letter-spacing: -.04em; max-width: 760px; }
+.subtitle { font-size: 1.25rem; line-height: 1.6; margin-top: 1.6rem; color: var(--ifm-heading-color); }
+.description { color: var(--ifm-color-content-secondary); max-width: 680px; }
+.actions { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; }
+.actions a { font-size: .95rem; }
+.illustration svg { width: 100%; height: auto; }
+.illustration p { text-align: center; font-size: .85rem; color: var(--ifm-color-content-secondary); margin-top: 1rem; }
+.reading { padding-top: 4rem; padding-bottom: 4rem; }
+.reading h2 { font-size: 2rem; letter-spacing: -.025em; }
+.intro { color: var(--ifm-color-content-secondary); max-width: 720px; }
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2rem; }
+.card { display: flex; flex-direction: column; padding: 1.8rem; border: 1px solid var(--academic-border); border-radius: 10px; color: var(--ifm-font-color-base); background: var(--ifm-background-surface-color); transition: border-color .15s, box-shadow .15s; }
+.card:hover { text-decoration: none; color: inherit; border-color: var(--ifm-color-primary); box-shadow: 0 4px 20px #1836530d; }
+.number { font-size: .85rem; color: var(--ifm-color-content-secondary); margin-bottom: 1.5rem; font-variant-numeric: tabular-nums; }
+.card h3 { font-size: 1.15rem; line-height: 1.5; }
+.card p { font-size: .95rem; color: var(--ifm-color-content-secondary); flex: 1; }
+.cardLink { color: var(--ifm-color-primary); font-size: .9rem; font-weight: 600; }
+.note { border-left: 3px solid var(--ifm-color-primary); background: var(--academic-surface); padding: 1.2rem 1.5rem; margin-top: 2rem; font-size: .95rem; }
+@media (max-width: 996px) {
+  .hero { padding: 3rem 0; }
+  .heroGrid { grid-template-columns: 1fr; gap: 2rem; }
+  .illustration { display: none; }
+  .cards { grid-template-columns: 1fr; }
+  .reading { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+}

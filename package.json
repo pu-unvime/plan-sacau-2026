@@ -1,0 +1,43 @@
+{
+  "name": "plan-sacau-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Documentación académica del Plan de Estudios de Programador Universitario de Sistemas.",
+  "scripts": {
+    "content": "node scripts/generate-docs.mjs",
+    "prestart": "npm run content",
+    "start": "docusaurus start",
+    "prebuild": "npm run content",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear",
+    "pretypecheck": "npm run content",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "dependencies": {
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@docusaurus/theme-mermaid": "3.10.2",
+    "@easyops-cn/docusaurus-search-local": "0.55.3",
+    "@mdx-js/react": "^3.1.1",
+    "@mermaid-js/layout-elk": "^0.1.9",
+    "clsx": "^2.1.1",
+    "github-slugger": "^2.0.0",
+    "prism-react-renderer": "^2.4.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "3.10.2",
+    "@docusaurus/tsconfig": "3.10.2",
+    "@docusaurus/types": "3.10.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "~5.9.3"
+  },
+  "engines": {
+    "node": ">=22.0"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+build/
+.docusaurus/
+.cache-loader/
+coverage/
+docs/generated/
+src/generated/
+static/documentos/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
