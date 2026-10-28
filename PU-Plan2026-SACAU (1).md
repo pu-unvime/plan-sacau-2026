@@ -1,31 +1,17 @@
-Proyecto de Adecuación al   
-Sistema Argentino de Créditos Académicos Universitarios del   
-Plan de Estudios de la Carrera  
-**Programador Universitario de Sistemas**
+Proyecto de Adecuación al Sistema Argentino de Créditos Académicos Universitarios del Plan de Estudios de la Carrera  **Programador Universitario de Sistemas**
 
-[**Introducción	1**](#introducción)
-
-[**Análisis Previo	2**](#análisis-previo)
-
-[Diagnóstico del Plan de Estudios Vigente	3](#diagnóstico-del-plan-de-estudios-vigente)
-
-[Validación de la Carga Académica y del Tiempo Total del Estudiante	5](#validación-de-la-carga-académica-y-del-tiempo-total-del-estudiante)
-
-[**Propuesta	5**](#propuesta)
-
-[Duración de la Carrera	6](#duración-de-la-carrera)
-
-[Objetivos de la Carrera	6](#objetivos-de-la-carrera)
-
-[Perfil de Egreso	6](#perfil-de-egreso)
-
-[Alcances del Título	7](#alcances-del-título)
-
-[Organización del Plan de Estudios	7](#organización-del-plan-de-estudios)
-
-[**Información sobre los Anexos	7**](#información-sobre-los-anexos)
-
-[**Nota metodológica sobre el proceso de elaboración	7**](#nota-metodológica-sobre-el-proceso-de-elaboración)
+- [**Introducción**](#introducción)
+- [**Análisis Previo**](#análisis-previo)
+  - [Diagnóstico del Plan de Estudios Vigente](#diagnóstico-del-plan-de-estudios-vigente)
+  - [Validación de la Carga Académica y del Tiempo Total del Estudiante](#validación-de-la-carga-académica-y-del-tiempo-total-del-estudiante)
+- [**Propuesta**](#propuesta)
+  - [Duración de la Carrera](#duración-de-la-carrera)
+  - [Objetivos de la Carrera](#objetivos-de-la-carrera)
+  - [Perfil de Egreso](#perfil-de-egreso)
+  - [Alcances del Título](#alcances-del-título)
+  - [Organización del Plan de Estudios](#organización-del-plan-de-estudios)
+- [**Información sobre los Anexos**](#información-sobre-los-anexos)
+- [**Nota metodológica sobre el proceso de elaboración**](#nota-metodológica-sobre-el-proceso-de-elaboración)
 
 # Introducción {#introducción}
 
