@@ -1,0 +1,1492 @@
+ANEXO I
+
+Plan de Estudios de la Carrera  
+**Programador Universitario de Sistemas**
+
+[**Identificación de la Carrera	2**](#identificación-de-la-carrera)
+
+[**Objetivos Institucionales	2**](#objetivos-institucionales)
+
+[Fundamentación de la Carrera	3](#fundamentación-de-la-carrera)
+
+[**Duración de la Carrera	4**](#duración-de-la-carrera)
+
+[**Requisitos de Ingreso a la Carrera	4**](#requisitos-de-ingreso-a-la-carrera)
+
+[Campo Profesional	4](#campo-profesional)
+
+[Objetivos Generales de Aprendizaje	5](#objetivos-generales-de-aprendizaje)
+
+[Perfil de Egreso	6](#perfil-de-egreso)
+
+[Alcances y Actividades Profesionales del Título	6](#alcances-y-actividades-profesionales-del-título)
+
+[**Número Total de Actividades Curriculares	7**](#número-total-de-actividades-curriculares)
+
+[**Estructura Curricular	7**](#estructura-curricular)
+
+[**Distribución Curricular	9**](#distribución-curricular)
+
+[**Síntesis de la Estructura Curricular	11**](#síntesis-de-la-estructura-curricular)
+
+[**Tabla de Espacios Curriculares	11**](#tabla-de-espacios-curriculares)
+
+[**Modalidad	12**](#modalidad)
+
+[Interacción Pedagógica y Trabajo Autónomo	13](#interacción-pedagógica-y-trabajo-autónomo)
+
+[Evaluación de los Aprendizajes	14](#evaluación-de-los-aprendizajes)
+
+[**Presentación de los Espacios Curriculares	15**](#presentación-de-los-espacios-curriculares)
+
+[Matemáticas I (01)	16](#matemáticas-i-\(01\))
+
+[Expresión de Problemas y Algoritmos (02)	17](#expresión-de-problemas-y-algoritmos-\(02\))
+
+[Diseño Web (03)	19](#diseño-web-\(03\))
+
+[Computación en la Nube I (04)	20](#computación-en-la-nube-i-\(04\))
+
+[Inglés Técnico I (05)	22](#inglés-técnico-i-\(05\))
+
+[Matemáticas II (06)	23](#matemáticas-ii-\(06\))
+
+[Paradigmas de Programación (07)	24](#paradigmas-de-programación-\(07\))
+
+[Programación I (08)	26](#programación-i-\(08\))
+
+[Bases de Datos I (09)	27](#bases-de-datos-i-\(09\))
+
+[Computación en la Nube II (10)	28](#computación-en-la-nube-ii-\(10\))
+
+[Inglés Técnico II (11)	30](#inglés-técnico-ii-\(11\))
+
+[Probabilidad y Estadística (12)	31](#probabilidad-y-estadística-\(12\))
+
+[Análisis y Diseño de Sistemas (13)	33](#análisis-y-diseño-de-sistemas-\(13\))
+
+[Programación II (14)	34](#programación-ii-\(14\))
+
+[Bases de Datos II (15)	35](#bases-de-datos-ii-\(15\))
+
+[Web I (16)	37](#web-i-\(16\))
+
+[Inteligencia Artificial (17)	38](#inteligencia-artificial-\(17\))
+
+[Ingeniería de Software (18)	40](#ingeniería-de-software-\(18\))
+
+[Programación III (19)	41](#programación-iii-\(19\))
+
+[Web II (20)	42](#web-ii-\(20\))
+
+[Trabajo Final Integrador	44](#trabajo-final-integrador)
+
+[**Seguimiento y evaluación del plan de estudios	47**](#seguimiento-y-evaluación-del-plan-de-estudios)
+
+# Identificación de la Carrera {#identificación-de-la-carrera}
+
+1. **Unidad Académica:** Escuela de Ingeniería y Ciencias Ambientales.  
+2. **Denominación:** Programador Universitario de Sistemas.  
+3. **Nivel de Formación:** Pregrado.  
+4. **Denominación del título que otorga:** Programador/a Universitario/a de Sistemas.  
+5. **Caracterización:** Propuesta Institucional de Formación Universitaria de Pregrado, de carácter permanente, con una duración teórica de dos (2) años académicos, organizada en cuatro (4) cuatrimestres.  
+6. **Modalidad de Dictado y localización:** Presencial, a Distancia o Híbrida.  
+   La carrera Programador Universitario de Sistemas se desarrollará bajo modalidad presencial, en la sede Villa Mercedes de la Universidad Nacional de Villa Mercedes, provincia de San Luis. Podrá incorporar estrategias de enseñanza y aprendizaje mediadas por tecnologías digitales, conforme a la planificación académica de sus actividades curriculares y a las disposiciones nacionales e institucionales vigentes, sin que ello implique por sí mismo una modificación de la modalidad de la carrera.  
+7. **Sede Institucional:** Villa Mercedes.  
+8. **Régimen de la Carrera:** No incluida en Art 42 y Art 43\.
+
+# Objetivos Institucionales {#objetivos-institucionales}
+
+La Escuela de Ingeniería y Ciencias Ambientales de la Universidad Nacional de Villa Mercedes tiene como objetivos institucionales:
+
+* Formar personas con sólida preparación científica, tecnológica, ética y humanística, comprometidas con el desarrollo social, productivo y tecnológico de la región y del país.  
+* Promover una formación integral basada en la articulación entre docencia, investigación, extensión y vinculación tecnológica, favoreciendo la generación, aplicación y transferencia del conocimiento al servicio de la comunidad.  
+* Impulsar propuestas académicas de calidad que respondan a los avances científicos y tecnológicos, promoviendo el aprendizaje permanente, el pensamiento crítico, la creatividad y la capacidad de adaptación a entornos tecnológicos en constante evolución.  
+* Fortalecer la vinculación con los sectores productivos, organismos públicos, instituciones educativas y organizaciones sociales, contribuyendo al desarrollo regional mediante la formación de profesionales capaces de participar en la identificación y resolución de problemáticas vinculadas a su campo de actuación.  
+* Favorecer el desarrollo de competencias profesionales que permitan a las personas egresadas desempeñarse con responsabilidad, compromiso ético, trabajo colaborativo y autonomía acorde con su nivel de formación.  
+* Promover una cultura institucional orientada a la mejora continua de la calidad académica, la innovación educativa, la inclusión, la internacionalización y la formación a lo largo de toda la vida.  
+* Consolidar a la Escuela de Ingeniería y Ciencias Ambientales como un referente académico en la formación de profesionales capaces de contribuir al desarrollo de soluciones tecnológicas y a la generación de conocimiento aplicado, promoviendo una estrecha articulación entre la Universidad, el sistema científico-tecnológico y los distintos actores sociales y productivos.
+
+# Fundamentación de la Carrera {#fundamentación-de-la-carrera}
+
+Las Tecnologías de la Información y la Comunicación constituyen uno de los principales motores de transformación económica, social y productiva de la actualidad. La creciente digitalización de organizaciones públicas y privadas, la automatización de procesos y el desarrollo permanente de nuevos productos y servicios digitales han consolidado al software como un elemento estratégico para el funcionamiento y la innovación en múltiples ámbitos de la sociedad.
+
+En este contexto, tanto a nivel nacional como regional, existe una demanda sostenida de recursos humanos capacitados para participar en el desarrollo, implementación, mantenimiento y evolución de sistemas informáticos. Asimismo, la incorporación de tecnologías emergentes, el crecimiento de los servicios digitales y la utilización cada vez más extendida de datos para la toma de decisiones requieren profesionales capaces de adaptarse a entornos tecnológicos dinámicos y en constante transformación.
+
+La carrera de Programador Universitario de Sistemas surge como respuesta a estas necesidades, mediante una propuesta formativa orientada al desarrollo de software y la construcción de soluciones informáticas. Su propósito es formar profesionales con capacidades para participar en proyectos tecnológicos vinculados con la programación, el desarrollo de aplicaciones, la gestión de datos, la integración de servicios digitales y otras actividades propias del campo de la informática.
+
+La propuesta parte del reconocimiento de que la formación de personas programadoras debe trascender el aprendizaje de tecnologías específicas y priorizar la comprensión de los fundamentos que sustentan el desarrollo de software. En consecuencia, promueve la adquisición de conocimientos sólidos en programación, análisis y diseño de sistemas, ingeniería de software, gestión de datos, análisis de datos e inteligencia artificial, junto con capacidades para la resolución de problemas, el pensamiento crítico y el aprendizaje continuo.
+
+Desde una perspectiva pedagógica, la carrera favorece la integración progresiva de saberes teóricos y prácticos mediante experiencias formativas orientadas a la resolución de problemas y al desarrollo de competencias profesionales. Asimismo, reconoce el carácter dinámico e interdisciplinario de la informática, promoviendo una comprensión crítica de los principios y conceptos que fundamentan las tecnologías utilizadas en el ejercicio profesional.
+
+La presente propuesta curricular se desarrolla en el marco de la implementación del Sistema Argentino de Créditos Académicos Universitarios (SACAU). En este contexto, la adecuación curricular implica una revisión integral de la organización de la carrera orientada a fortalecer la articulación entre espacios curriculares, favorecer la integración de contenidos y reducir la fragmentación de los recorridos formativos. Asimismo, incorpora el Tiempo Total del Estudiante (TTE) como criterio para la planificación académica, promoviendo trayectorias más transparentes, coherentes y centradas en los procesos reales de aprendizaje.
+
+Las modificaciones introducidas preservan los saberes esenciales y las competencias profesionales propias del campo disciplinar, al tiempo que fortalecen la flexibilidad curricular, la coherencia de la propuesta académica y la compatibilidad con los principios del Sistema Argentino de Créditos Académicos Universitarios.
+
+En concordancia con la misión institucional de la Universidad Nacional de Villa Mercedes, la carrera contribuye a la formación de recursos humanos calificados en un área estratégica para el desarrollo regional y nacional, fortaleciendo las capacidades tecnológicas del territorio y ampliando las oportunidades de acceso a una formación universitaria de calidad.
+
+En síntesis, la carrera de Programador Universitario de Sistemas se fundamenta en la necesidad de formar profesionales capaces de participar en el desarrollo de soluciones informáticas en contextos tecnológicos dinámicos, mediante una propuesta académica sustentada en fundamentos disciplinares sólidos, formación práctica, aprendizaje permanente y una organización curricular alineada con los principios del Sistema Argentino de Créditos Académicos Universitarios.
+
+# Duración de la Carrera {#duración-de-la-carrera}
+
+La carrera de Programador Universitario de Sistemas tiene una duración total de 120 (Ciento Veinte) créditos académicos (CRE), equivalentes a 3000 (Tres Mil) horas de Tiempo Total del Estudiante (TTE), calculadas de acuerdo con los criterios establecidos por el Sistema Argentino de Créditos Académicos Universitarios (SACAU) y la normativa institucional vigente.
+
+La organización curricular distribuye dicha carga académica a lo largo de 2 (dos) años de duración teórica, contemplando tanto las actividades de interacción docente-estudiante como el trabajo autónomo requerido para el logro de los resultados de aprendizaje previstos en los distintos espacios curriculares.
+
+La asignación de créditos responde al Tiempo Total del Estudiante demandado por cada actividad formativa y busca garantizar una distribución equilibrada de la carga académica, favoreciendo trayectorias formativas coherentes y compatibles con los principios establecidos por el Sistema Argentino de Créditos Académicos Universitarios.
+
+# Requisitos de Ingreso a la Carrera {#requisitos-de-ingreso-a-la-carrera}
+
+Para cursar la carrera el postulante deberá haber egresado del nivel secundario  y/o satisfacer los requisitos exigidos por la reglamentación vigente de la Universidad Nacional de Villa Mercedes para ingreso a las carreras de grado.
+
+# Campo Profesional {#campo-profesional}
+
+La persona egresada de la carrera de Programador Universitario de Sistemas será formada para participar en prácticas profesionales vinculadas al desarrollo, implementación, prueba, documentación, mantenimiento y evolución de soluciones de software. Asimismo, podrá intervenir en actividades relacionadas con la construcción de aplicaciones web y multiplataforma, la gestión de datos, la automatización de procesos, la integración de servicios digitales y otras tareas asociadas al ciclo de vida del software.
+
+También estará preparada para colaborar en proyectos que involucren el procesamiento de información, la administración de bases de datos y la utilización de herramientas de análisis de datos e inteligencia artificial como parte de soluciones tecnológicas, de acuerdo con las responsabilidades correspondientes a su nivel de formación.
+
+Estas prácticas profesionales se desarrollan en un contexto caracterizado por la creciente digitalización de organizaciones públicas y privadas, la expansión de la industria del software y la incorporación de tecnologías informáticas en los distintos sectores productivos y de servicios, tanto a nivel nacional como regional.
+
+En este marco, las personas egresadas podrán desempeñarse en organizaciones públicas, privadas y del tercer sector, así como en emprendimientos tecnológicos y actividades profesionales independientes, integrando equipos interdisciplinarios y participando en proyectos vinculados al desarrollo de soluciones informáticas en ámbitos productivos, comerciales, industriales, financieros, educativos, gubernamentales y de servicios.
+
+Asimismo, podrán brindar servicios vinculados al desarrollo y mantenimiento de software, la automatización de procesos, la gestión de datos y la implementación de soluciones informáticas, dentro de los alcances establecidos para su titulación y de acuerdo con las competencias propias de su nivel de formación.
+
+# Objetivos Generales de Aprendizaje {#objetivos-generales-de-aprendizaje}
+
+El Plan de Estudios de Programador Universitario de Sistemas tiene por finalidad que las personas estudiantes desarrollen una formación tecnológica, profesional y humanística que les permita desempeñarse con solvencia, responsabilidad y compromiso ético en actividades vinculadas al desarrollo de software y los sistemas informáticos, en concordancia con el perfil de egreso, los alcances del título y el campo profesional definido para la carrera. En este marco, se establecen los siguientes objetivos:
+
+* Aplicar conocimientos de programación, algoritmos, estructuras de datos, bases de datos y sistemas informáticos para analizar problemas de complejidad acorde con su nivel de formación e implementar soluciones tecnológicas utilizando herramientas, metodologías y tecnologías propias del desarrollo de software.  
+* Desarrollar, probar, documentar, desplegar y mantener aplicaciones informáticas utilizando metodologías, herramientas y tecnologías propias del desarrollo de software.  
+* Construir aplicaciones web, aplicaciones multiplataforma y soluciones basadas en servicios digitales considerando criterios de calidad, seguridad, accesibilidad y mantenibilidad.  
+* Utilizar técnicas y herramientas de gestión de datos para el almacenamiento, procesamiento y recuperación de información como parte de soluciones informáticas.  
+* Participar en proyectos tecnológicos vinculados con la automatización de procesos, la integración de sistemas y la implementación de soluciones informáticas en distintos contextos organizacionales.  
+* Utilizar herramientas y servicios de análisis de datos e inteligencia artificial como apoyo al desarrollo de software, reconociendo sus posibilidades, limitaciones e implicancias éticas.  
+* Integrarse a equipos de trabajo multidisciplinarios colaborando en actividades de análisis, implementación, documentación, prueba y mantenimiento de sistemas y aplicaciones informáticas.  
+* Comunicar información técnica de manera efectiva mediante documentación, diagramas, reportes y otros mecanismos de intercambio profesional.  
+* Actuar con responsabilidad ética, compromiso social, respeto por los marcos normativos vigentes y consideración por el impacto de las tecnologías de la información en las personas y las organizaciones.  
+* Desarrollar capacidades de aprendizaje autónomo y actualización permanente que favorezcan la adaptación a los cambios tecnológicos y la continuidad de estudios superiores en áreas afines.
+
+# Perfil de Egreso {#perfil-de-egreso}
+
+La persona egresada de la carrera de Programador Universitario de Sistemas será capaz de **analizar requerimientos, implementar soluciones de software y desarrollar aplicaciones informáticas** en organizaciones públicas, privadas y del tercer sector, con el propósito de resolver problemas y satisfacer necesidades de personas, organizaciones y comunidades, utilizando metodologías, herramientas y tecnologías propias de la programación y los sistemas informáticos y actuando de acuerdo con las responsabilidades correspondientes a su nivel de formación.
+
+Asimismo, será capaz de **desarrollar, probar, desplegar, documentar y mantener aplicaciones web, aplicaciones multiplataforma y sistemas basados en servicios y bases de datos**, en distintos entornos tecnológicos, con el propósito de contribuir al funcionamiento y mejora de soluciones informáticas, considerando criterios de calidad, seguridad, accesibilidad y mantenibilidad del software.
+
+Será capaz de **aplicar algoritmos, estructuras de datos, paradigmas de programación, principios de ingeniería de software y técnicas de gestión de datos** en proyectos de desarrollo e integración de sistemas, con el propósito de resolver problemas de complejidad acorde con su nivel de formación, utilizando prácticas profesionales y herramientas actualizadas.
+
+Asimismo, podrá **participar en procesos de automatización, integración de servicios digitales, gestión de datos y utilización de herramientas de análisis de datos e inteligencia artificial**, como parte de equipos de trabajo multidisciplinarios, con el propósito de desarrollar soluciones tecnológicas pertinentes, evaluando sus posibilidades, limitaciones e implicancias éticas.
+
+Será capaz de **comunicar información técnica, colaborar en equipos de desarrollo y participar en actividades de implementación, documentación, prueba y mantenimiento de software**, favoreciendo el intercambio profesional y el trabajo colaborativo, con responsabilidad ética, compromiso con la calidad, aprendizaje continuo y respeto por los marcos legales, sociales y ambientales vinculados al desarrollo y uso de las tecnologías de la información.
+
+# Alcances y Actividades Profesionales del Título {#alcances-y-actividades-profesionales-del-título}
+
+El título de **Programador/a Universitario/a de Sistemas** habilita a quien lo posee para:
+
+1. **Implementar, probar, documentar, desplegar y mantener**, en organizaciones públicas, privadas y del tercer sector, aplicaciones de software y componentes de sistemas informáticos de acuerdo con requerimientos previamente establecidos.  
+2. **Participar en equipos de trabajo interdisciplinarios**, en ámbitos tecnológicos y organizacionales, colaborando en actividades de desarrollo, implementación y mantenimiento de software y servicios informáticos.  
+3. **Utilizar, configurar e integrar**, en entornos de desarrollo y operación, herramientas, plataformas, recursos y servicios informáticos requeridos para el funcionamiento de aplicaciones y sistemas.  
+4. **Colaborar en la implementación, configuración, operación y mantenimiento**, en entornos organizacionales y tecnológicos, de bases de datos y mecanismos de gestión de información.  
+5. **Participar en la implementación, configuración e integración**, en proyectos de software, de herramientas, plataformas y componentes tecnológicos de acuerdo con requerimientos previamente definidos.  
+6. **Implementar prácticas y mecanismos**, en entornos informáticos no críticos, orientados a la protección, confidencialidad, integridad y disponibilidad de la información.  
+7. **Colaborar con profesionales y especialistas de áreas afines**, en proyectos tecnológicos, participando en actividades de análisis, implementación, prueba y mantenimiento de sistemas informáticos.  
+8. **Participar en proyectos de automatización de procesos, integración de servicios digitales y desarrollo de aplicaciones web y multiplataforma**, en distintos contextos organizacionales y productivos.  
+9. **Colaborar en la implementación e integración**, en proyectos de software, de herramientas, bibliotecas y servicios vinculados con el análisis de datos y la inteligencia artificial.
+
+| ⚠️ | Cuando los alcances designan una competencia derivada o compartida, la responsabilidad primaria y la toma de decisiones la ejerce en forma individual y exclusiva el poseedor del título con competencia reservada según el régimen del Art. 43 de la Ley de Educación Superior Nº24.521. |
+| :---- | :---- |
+
+# Número Total de Actividades Curriculares {#número-total-de-actividades-curriculares}
+
+El Plan de Estudios de la carrera de Programador Universitario de Sistemas está integrado por un total de 21 (veintiún) actividades curriculares obligatorias, organizadas en modalidad de asignaturas cuatrimestrales y distribuidas a lo largo de una trayectoria formativa de 2 (dos) años de duración.
+
+# Estructura Curricular {#estructura-curricular}
+
+La estructura curricular de la carrera de **Programador/a Universitario/a de Sistemas** se organiza sobre un modelo de formación progresiva orientado al desarrollo de competencias para el análisis, diseño, construcción, implementación y mantenimiento de soluciones de software. Esta organización busca garantizar una formación coherente e integrada, articulando saberes teóricos, metodológicos y tecnológicos que permitan a las personas estudiantes desenvolverse en los distintos ámbitos del desarrollo de software y los sistemas de información.
+
+Adopta una estructura basada en **cuatro ejes formativos** que ordenan los conocimientos, habilidades y competencias requeridos para el logro del perfil de egreso. Estos ejes son: **Matemáticas** (*formación básica*), **Programación y Sistemas** (*formación específica*), **Internet y Datos** (*formación complementaria o aplicada*) e **Idiomas** (*formación transversal*). Cada uno de ellos agrupa espacios curriculares afines, favoreciendo una construcción progresiva e integrada de los aprendizajes.
+
+La composición entre los distintos ejes formativos se refleja en la Figura 1, que presenta las relaciones de dependencia entre las asignaturas que integran el plan de estudios.
+
+![][image1]
+
+Figura 1\. Composición de los ejes formativos.
+
+El eje **Matemáticas** reúne las asignaturas que aportan los fundamentos lógico-matemáticos necesarios para el desarrollo del pensamiento computacional, la modelización de problemas y la comprensión de los algoritmos. En este eje se incluyen las asignaturas *Matemáticas I*, *Matemáticas II*, *Probabilidad y Estadística* e *Inteligencia Artificial*. La incorporación de esta última responde a que gran parte de sus fundamentos se sustentan en conceptos matemáticos y estadísticos desarrollados previamente en la carrera. Asimismo, la inteligencia artificial se ha consolidado como una tecnología transversal en la industria del software, por lo que la comprensión de sus principios y posibilidades constituye actualmente una competencia básica para quienes se desempeñan en el ámbito de la programación y los sistemas.
+
+El eje **Programación y Sistemas** constituye el núcleo de formación específica de la carrera. En él se agrupan las asignaturas orientadas al desarrollo de competencias vinculadas con la resolución de problemas mediante software, el dominio de distintos paradigmas de programación, la construcción de aplicaciones, el análisis organizacional y el diseño de sistemas de información. Este eje permite que las personas estudiantes incorporen progresivamente los conocimientos, técnicas y metodologías propias del ejercicio profesional de la programación.
+
+El eje **Internet y Datos** concentra los conocimientos relacionados con la gestión de la información, las tecnologías web y los entornos de computación contemporáneos. Comprende asignaturas vinculadas con bases de datos, desarrollo web, computación en la nube e infraestructura informática, promoviendo competencias necesarias para el diseño, implementación y despliegue de aplicaciones modernas y sistemas conectados a través de Internet.
+
+El eje **Idiomas** está integrado por las asignaturas *Inglés Técnico I* e *Inglés Técnico II*, orientadas al desarrollo de competencias lingüísticas necesarias para el desempeño profesional en el ámbito de las tecnologías de la información. Estas asignaturas facilitan el acceso a documentación técnica especializada, herramientas de desarrollo, recursos de aprendizaje y entornos de trabajo globalizados, fortaleciendo además las capacidades de comunicación técnica y colaboración profesional.
+
+La estructura curricular se completa con el espacio de **Trabajo Final Integrador**, destinado a la integración y aplicación de los conocimientos, habilidades y competencias desarrollados durante la carrera mediante la realización de un proyecto tecnológico o de desarrollo de software. Este espacio constituye una instancia de síntesis formativa que favorece la articulación de los distintos saberes construidos a lo largo del trayecto académico.
+
+La organización de la carrera en ejes formativos procura asegurar la coherencia interna del plan de estudios, facilitar la articulación entre las distintas áreas de conocimiento y promover una formación profesional equilibrada que combine fundamentos teóricos, competencias técnicas específicas y capacidades necesarias para el desempeño en contextos tecnológicos contemporáneos.
+
+# Distribución Curricular {#distribución-curricular}
+
+La distribución curricular de la carrera se organiza en cuatro cuatrimestres articulados mediante una secuencia progresiva de complejidad creciente (figura 2\) que favorece la construcción gradual de competencias vinculadas con el análisis, diseño, desarrollo, implementación y mantenimiento de soluciones de software.
+
+![][image2]
+
+Figura 2\. Distribución cuatrimestral.
+
+Durante el primer año se prioriza la adquisición de los fundamentos matemáticos, computacionales y de programación que constituyen la base conceptual de la carrera. En este tramo se abordan los saberes vinculados con el pensamiento algorítmico, la resolución de problemas, la programación orientada a objetos, los paradigmas de programación, las matemáticas y los fundamentos de la computación.
+
+En el segundo año los y las estudiantes profundizan dichos conocimientos mediante espacios curriculares orientados al desarrollo de aplicaciones web, bases de datos, computación en la nube, análisis y diseño de sistemas, inteligencia artificial y desarrollo multiplataforma. Esta organización permite avanzar desde la comprensión de conceptos fundamentales hacia la aplicación integrada de tecnologías, metodologías y herramientas propias del ejercicio profesional.
+
+La articulación vertical se establece mediante un régimen de correlatividades y secuencias formativas que garantizan la recuperación y profundización progresiva de los saberes desarrollados en asignaturas precedentes. De esta manera, los contenidos abordados en los primeros espacios curriculares funcionan como base para el desarrollo de competencias de mayor complejidad en etapas posteriores del trayecto académico.
+
+La articulación horizontal se promueve a través de la convergencia de contenidos, actividades y proyectos entre asignaturas pertenecientes a distintos ejes formativos, favoreciendo una comprensión integrada de los problemas informáticos y de los procesos de desarrollo de software.
+
+Ambas articulaciones pueden visualizarse en la Figura 3 que presenta las relaciones entre las asignaturas.
+
+![][image3]
+
+Figura 3\. Relaciones verticales y horizontales entre las asignaturas.
+
+De manera transversal a los distintos espacios curriculares, la carrera promueve la utilización de herramientas y entornos propios del ejercicio profesional, incluyendo sistemas de control de versiones, repositorios de código fuente, herramientas de documentación técnica, plataformas de trabajo colaborativo y entornos de desarrollo contemporáneos. Asimismo, se procura recrear dinámicas de trabajo características de la industria del software, combinando actividades individuales y colaborativas, comunicación sincrónica y asincrónica, y modalidades de trabajo presenciales y mediadas por tecnologías digitales.
+
+La integración de los distintos saberes desarrollados a lo largo de la carrera culmina en el Trabajo Final Integrador, espacio académico destinado a la aplicación articulada de los conocimientos, habilidades y competencias adquiridas durante el trayecto formativo.
+
+# Síntesis de la Estructura Curricular {#síntesis-de-la-estructura-curricular}
+
+La siguiente tabla presenta una síntesis de la estructura curricular de la carrera, indicando la cantidad de espacios curriculares contemplados en el plan de estudios y su correspondiente carga académica expresada en Créditos de Referencia del Estudiante (CRE) y horas totales de formación. Esta síntesis permite visualizar la composición general de la propuesta formativa y la distribución de las actividades curriculares que contribuyen al logro del perfil de egreso.
+
+| Programador/a Universitario/a de Sistemas | Cantidad | Horas / CRE |
+| :---- | :---- | :---- |
+| Actividades curriculares / espacios curriculares obligatorios | 21 | 3000 Horas Totales (1.200 HIP \+ 1.800 HTA) / 120 CRE  |
+| Actividades curriculares / espacios curriculares optativos | 0 | 0 Horas Totales / 0 CRE |
+| Prácticas preprofesionales | 0\* | 0 Horas Totales / 0 CRE\* |
+| Total de actividades curriculares | 21 | 3000 Horas Totales (1.200 HIP \+ 1.800 HTA) 120 CRE |
+
+\*El plan de estudios no contempla espacios curriculares específicos de prácticas preprofesionales. No obstante, las actividades de integración y aplicación de conocimientos se desarrollan mediante proyectos, trabajos integradores y el Trabajo Final Integrador, dentro de los espacios curriculares previstos por la carrera.
+
+# Tabla de Espacios Curriculares {#tabla-de-espacios-curriculares}
+
+La malla curricular sintetiza la estructura académica de la carrera mediante la identificación de los espacios curriculares, su secuenciación dentro del trayecto formativo y la correspondiente asignación de Créditos de Referencia del Estudiante (CRE). La distribución propuesta refleja la progresión de los aprendizajes previstos, la articulación entre los distintos ejes de formación y la carga de trabajo estimada para las personas estudiantes, expresada a través de actividades de interacción pedagógica y trabajo autónomo. De este modo, la malla permite visualizar la contribución relativa de cada espacio curricular al logro de las competencias definidas en el perfil de egreso.
+
+| Cód. | Asignatura | Año | Cuatr. | CRE Totales | Carga Horaria |  |  | Horas Semanales |  |  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|  |  |  |  |  | *IP* | *TA* | *Total* | *IP* | *TA* | *Total* |
+|  |  |  |  |  |  |  |  |  |  |  |
+| **Primer Año** |  |  |  |  |  |  |  |  |  |  |
+| 01 | Matemáticas I | 1 | 1C | 8 | 60 | 140 | 200 | 4h 00m | 9h 20m | 13h 20m |
+| 02 | Expresión de Problemas y Algoritmos | 1 | 1C | 9 | 75 | 150 | 225 | 5h 00m | 10h 00m | 15h 00m |
+| 03 | Diseño Web | 1 | 1C | 6 | 60 | 90 | 150 | 4h 00m | 6h 00m | 10h 00m |
+| 04 | Computación en la Nube I | 1 | 1C | 3 | 45 | 30 | 75 | 3h 00m | 2h 00m | 5h 00m |
+| 05 | Inglés Técnico I | 1 | 1C | 4 | 60 | 40 | 100 | 4h 00m | 2h 40m | 6h 40m |
+| *Resumen del Primer Cuatrimestre* |  |  | *30 CRE cuatrimestrales* |  |  |  |  | *50 hs. semanales* |  |  |
+| 06 | Matemáticas II | 1 | 2C | 6 | 60 | 90 | 150 | 4h 00m | 6h 00m | 10h 00m |
+| 07 | Paradigmas de Programación | 1 | 2C | 6 | 60 | 90 | 150 | 4h 00m | 6h 00m | 10h 00m |
+| 08 | Programación I | 1 | 2C | 6 | 60 | 90 | 150 | 4h 00m | 6h 00m | 10h 00m |
+| 09 | Bases de Datos I | 1 | 2C | 4 | 60 | 40 | 100 | 4h 00m | 2h 40m | 6h 40m |
+| 10 | Computación en la Nube II | 1 | 2C | 4 | 45 | 55 | 100 | 3h 00m | 3h 40m | 6h 40m |
+| 11 | Inglés Técnico II | 1 | 2C | 4 | 60 | 40 | 100 | 4h 00m | 2h 40m | 6h 40m |
+| *Resumen del Segundo Cuatrimestre* |  |  | *30 CRE cuatrimestrales* |  |  |  |  | *50 hs. semanales* |  |  |
+| ***Resumen del Primer Año*** |  |  | ***60 CRE anuales*** |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| **Segundo Año** |  |  |  |  |  |  |  |  |  |  |
+| 12 | Probabilidad y Estadística | 2 | 3C | 5 | 60 | 65 | 125 | 4h 00m | 4h 20m | 8h 20m |
+| 13 | Análisis y Diseño de Sistemas | 2 | 3C | 5 | 60 | 65 | 125 | 4h 00m | 4h 20m | 8h 20m |
+| 14 | Programación II | 2 | 3C | 7 | 60 | 115 | 175 | 4h 00m | 7h 40m | 11h 40m |
+| 15 | Bases de Datos II | 2 | 3C | 6 | 60 | 90 | 150 | 4h 00m | 6h 00m | 10h 00m |
+| 16 | Web I | 2 | 3C | 7 | 60 | 115 | 175 | 4h 00m | 7h 40m | 11h 40m |
+| *Resumen del Tercer Cuatrimestre* |  |  | *30 CRE cuatrimestrales* |  |  |  |  | *50 hs. semanales* |  |  |
+| 17 | Inteligencia Artificial | 2 | 4C | 4 | 45 | 55 | 100 | 3h 00m | 3h 40m | 6h 40m |
+| 18 | Ingeniería de Software | 2 | 4C | 5 | 60 | 65 | 125 | 4h 00m | 4h 20m | 8h 20m |
+| 19 | Programación III | 2 | 4C | 5 | 60 | 65 | 125 | 4h 00m | 4h 20m | 8h 20m |
+| 20 | Web II | 2 | 4C | 7 | 60 | 115 | 175 | 4h 00m | 7h 40m | 11h 40m |
+| 21 | Trabajo Final Integrador | 2 | 4C | 9 | 30 | 195 | 225 | 2h 00m | 13h 00m | 15h 00m |
+| *Resumen del Cuarto Cuatrimestre* |  |  | *30 CRE cuatrimestrales* |  |  |  |  | *50 hs. semanales* |  |  |
+| ***Resumen del Segundo Año*** |  |  | ***60 CRE anuales*** |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| **RESUMEN DE LA CARRERA** |  |  |  | 120 CRE | 1200 HIP | 1800 HTA | 3000 HS. TOTALES |  |  |  |
+
+# Modalidad {#modalidad}
+
+La carrera podrá desarrollarse en modalidad presencial, a distancia o mediante propuestas híbridas, de acuerdo con las condiciones institucionales y normativas vigentes.
+
+La organización curricular de la carrera ha sido diseñada de manera compatible con el desarrollo de trayectorias formativas presenciales, a distancia o híbridas, mediante una estructura basada en créditos académicos, actividades de interacción pedagógica y trabajo autónomo. Esta organización permite adaptar las estrategias de enseñanza, aprendizaje y evaluación a diferentes modalidades de cursado sin alterar los resultados de aprendizaje, las competencias previstas en el perfil de egreso ni los requisitos académicos establecidos para cada espacio curricular.
+
+En este marco, los lineamientos pedagógicos, tecnológicos y organizacionales necesarios para el desarrollo de las distintas modalidades de cursado serán implementados conforme a las disposiciones establecidas por el Sistema Institucional de Educación a Distancia (SIED) de la Universidad Nacional de Villa Mercedes y por la normativa institucional vigente.
+
+Las actividades de enseñanza y aprendizaje se organizan mediante una combinación de instancias de interacción pedagógica y trabajo autónomo, utilizando estrategias y recursos acordes con las características de cada espacio curricular y con los lineamientos establecidos por el Sistema Institucional de Educación a Distancia (SIED) de la Universidad Nacional de Villa Mercedes.
+
+Las actividades formativas podrán incluir clases, tutorías, talleres, resolución de problemas, estudios de caso, desarrollo de proyectos, actividades colaborativas, prácticas de laboratorio, trabajos integradores y otras estrategias didácticas que favorezcan la construcción progresiva de las competencias definidas para la carrera.
+
+Para el desarrollo de dichas actividades podrán emplearse entornos virtuales de aprendizaje, repositorios de código fuente, simuladores, laboratorios virtuales o remotos, bases de datos, servicios en la nube, plataformas de videoconferencia y demás herramientas tecnológicas pertinentes para cada asignatura.
+
+En aquellas asignaturas que requieran actividades prácticas vinculadas con el desarrollo de software, la gestión de datos, la administración de servicios, la construcción de aplicaciones o la resolución de problemas tecnológicos, las experiencias formativas podrán desarrollarse mediante entornos de desarrollo locales o remotos, repositorios de código fuente, plataformas de integración y despliegue, laboratorios virtuales, servicios en la nube y otras herramientas especializadas que permitan reproducir condiciones similares a las de los contextos profesionales de desempeño.
+
+Las actividades prácticas podrán incluir la producción individual o colaborativa de software, la resolución de ejercicios y estudios de caso, la implementación de prototipos, la realización de pruebas, la administración de recursos tecnológicos, la integración de servicios y aplicaciones, y la elaboración de evidencias de aprendizaje verificables, de acuerdo con los objetivos formativos de cada espacio curricular.
+
+## Interacción Pedagógica y Trabajo Autónomo {#interacción-pedagógica-y-trabajo-autónomo}
+
+La propuesta formativa de la carrera se organiza a partir de la combinación de actividades de **interacción pedagógica** y **trabajo autónomo**.
+
+Las actividades de interacción pedagógica incluyen las acciones de enseñanza, seguimiento, orientación, acompañamiento y retroalimentación desarrolladas con participación docente, pudiendo realizarse mediante instancias sincrónicas o asincrónicas según las características de cada asignatura.
+
+Estas actividades podrán materializarse mediante clases, tutorías, espacios de consulta, foros de intercambio, revisión de producciones académicas, análisis de casos, seguimiento de proyectos, actividades colaborativas, prácticas guiadas, presentaciones, demostraciones y otras estrategias de acompañamiento pedagógico orientadas a favorecer la construcción progresiva de los aprendizajes y el logro de los resultados formativos previstos.
+
+Complementariamente, el trabajo autónomo comprende las actividades de estudio, práctica, investigación, resolución de problemas y desarrollo de proyectos realizadas por las y los estudiantes con el propósito de construir e integrar los aprendizajes previstos.
+
+La proporción de ambos componentes responde a los criterios institucionales de asignación de créditos académicos y se encuentra expresada en la malla curricular mediante la distribución de horas de interacción pedagógica y trabajo autónomo correspondiente a cada espacio curricular.
+
+## Evaluación de los Aprendizajes {#evaluación-de-los-aprendizajes}
+
+La evaluación constituye un proceso continuo, sistemático e integrado a las actividades de enseñanza y aprendizaje, orientado a valorar el grado de logro de los objetivos formativos y el desarrollo progresivo de las competencias definidas para la carrera.
+
+Las estrategias de evaluación contemplarán tanto instancias formativas como sumativas. Las primeras están orientadas a acompañar el proceso de aprendizaje mediante actividades de seguimiento, retroalimentación y mejora continua, mientras que las segundas permitirán verificar el nivel de apropiación de los conocimientos, habilidades y competencias previstos para cada espacio curricular.
+
+La evaluación podrá desarrollarse a través de diversos instrumentos y evidencias de aprendizaje, tales como *actividades prácticas*, *resolución de problemas*, *proyectos*, *estudios de caso*, *trabajos individuales y grupales*, *informes técnicos*, *producciones escritas*, *exposiciones orales*, *evaluaciones parciales y finales*, *prácticas de laboratorio*, *actividades de investigación*, *desarrollos de software* y demás propuestas pertinentes a las características de cada asignatura.
+
+En aquellos *espacios curriculares que incluyan actividades de carácter aplicado o profesional*, la evaluación *priorizará la integración de conocimientos* y la resolución de situaciones problemáticas similares a las que se presentan en contextos reales de desempeño.
+
+Las *instancias evaluativas* podrán realizarse mediante *actividades presenciales*, *remotas* o *combinadas*, utilizando los recursos tecnológicos y académicos definidos por la Universidad para cada modalidad de cursado. En todos los casos se garantizarán condiciones de validez, confiabilidad, transparencia, accesibilidad y equidad en los procesos de evaluación.
+
+En las *propuestas desarrolladas total o parcialmente mediante entornos digitales*, los procesos de evaluación podrán sustentarse en *evidencias de aprendizaje verificables* obtenidas a través de producciones individuales o colaborativas, proyectos, prácticas, desarrollos de software, actividades de integración, presentaciones orales, defensas, entrevistas académicas y otras estrategias acordes con los resultados de aprendizaje previstos.
+
+Asimismo, *las estrategias de evaluación serán diseñadas de manera tal que permitan valorar* no solo los productos obtenidos sino también *los procesos desarrollados*, favoreciendo la identificación de los aportes realizados por cada estudiante y la acreditación efectiva de las competencias, conocimientos y habilidades definidas para cada espacio curricular.
+
+Los criterios específicos de evaluación, acreditación y promoción de cada asignatura serán establecidos en las correspondientes planificaciones docentes, en concordancia con la normativa institucional vigente y con los objetivos formativos definidos para cada espacio curricular.
+
+La evaluación integradora de la carrera se concretará mediante el Trabajo Final Integrador, instancia destinada a evidenciar la capacidad de aplicar de manera articulada los conocimientos, habilidades y competencias desarrollados a lo largo de la trayectoria académica.
+
+# Presentación de los Espacios Curriculares {#presentación-de-los-espacios-curriculares}
+
+La propuesta curricular se materializa a través de un conjunto articulado de asignaturas que contribuyen al desarrollo progresivo de las competencias definidas para la carrera. 
+
+La presente tabla sintetiza la organización curricular de la carrera, consignando para cada espacio curricular su codificación, denominación, ubicación en el trayecto formativo, formato curricular, carácter y régimen de cursado.
+
+| Cód. | Espacio Curricular | Año | Cuatrimestre | Tipo | Carácter | Régimen |
+| :---: | ----- | :---: | :---: | :---: | :---: | :---: |
+|  |  |  |  |  |  |  |
+| 01 | Matemáticas I | 1 | 1 | Asignatura | Obligatorio | Cuatrimestral |
+| 02 | Expresión de Problemas y Algoritmos | 1 | 1 | Asignatura | Obligatorio | Cuatrimestral |
+| 03 | Diseño Web | 1 | 1 | Asignatura | Obligatorio | Cuatrimestral |
+| 04 | Computación en la Nube I | 1 | 1 | Asignatura | Obligatorio | Cuatrimestral |
+| 05 | Inglés Técnico I | 1 | 1 | Asignatura | Obligatorio | Cuatrimestral |
+| 06 | Matemáticas II | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 07 | Paradigmas de Programación | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 08 | Programación I | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 09 | Bases de Datos I | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 10 | Computación en la Nube II | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 11 | Inglés Técnico II | 1 | 2 | Asignatura | Obligatorio | Cuatrimestral |
+| 12 | Probabilidad y Estadística | 2 | 3 | Asignatura | Obligatorio | Cuatrimestral |
+| 13 | Análisis y Diseño de Sistemas | 2 | 3 | Asignatura | Obligatorio | Cuatrimestral |
+| 14 | Programación II | 2 | 3 | Asignatura | Obligatorio | Cuatrimestral |
+| 15 | Bases de Datos II | 2 | 3 | Asignatura | Obligatorio | Cuatrimestral |
+| 16 | Web I | 2 | 3 | Asignatura | Obligatorio | Cuatrimestral |
+| 17 | Inteligencia Artificial | 2 | 4 | Asignatura | Obligatorio | Cuatrimestral |
+| 18 | Ingeniería de Software | 2 | 4 | Asignatura | Obligatorio | Cuatrimestral |
+| 19 | Programación III | 2 | 4 | Asignatura | Obligatorio | Cuatrimestral |
+| 20 | Web II | 2 | 4 | Asignatura | Obligatorio | Cuatrimestral |
+| 21 | Trabajo Final Integrador | 2 | 4 | Proyecto | Obligatorio | Cuatrimestral |
+
+A continuación se presenta cada espacio curricular, incluyendo su fundamentación, objetivos y contenidos mínimos, así como su aporte a la formación del/la Programador/a Universitario/a de Sistemas.
+
+## Matemáticas I (01) {#matemáticas-i-(01)}
+
+| Carga Horaria | 200 hs. (60 IP \+ 140 TA) |  | Créditos | 8 (ocho) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura proporciona los fundamentos lógico-matemáticos necesarios para el desarrollo del pensamiento computacional y la resolución de problemas mediante software. Los contenidos abordados constituyen una base conceptual para comprender la construcción de algoritmos, la representación de la información, la modelización de datos y el análisis formal de problemas propios de la disciplina informática.
+
+Se propone introducir a las personas al pensamiento computacional desde los conceptos útiles para la programación. De esa manera, se detallan temas claves para el pensamiento lógico como la lógica proposicional y el principio de inducción, de alto valor para la Programación Estructurada y la Programación Lógica.
+
+Luego, con la introducción de conceptos básicos de funciones y conjuntos, se cubren los conocimientos básicos para que las y los estudiantes puedan optimizar su pensamiento en el uso de estructuras de datos y se introduzcan en la programación funcional.
+
+### **Objetivos**
+
+Se espera que cada estudiante pueda adquirir conocimientos básicos de matemática en la disciplina de la programación que le permita:
+
+* apropiarse de los conceptos básicos de lógica, conjuntos y funciones en el campo de las matemáticas;
+
+* usar la lógica proposicional para modelar abstracciones combinando matemática y programación;
+
+* usar la teoría de conjuntos para el modelado y la manipulación de datos y estructuras de datos;
+
+* comprender el uso correcto y la importancia de las funciones en la escritura de programas estructurados y funcionales;
+
+* resolver problemas computacionales usando lógica proposicional y álgebra booleana;
+
+* representar información en distintos sistemas numéricos;
+
+* modelar situaciones simples mediante conjuntos y relaciones;
+
+* analizar funciones y su comportamiento básico.
+
+### **Contenidos Mínimos**
+
+**Lógica proposicional y Álgebra de Boole.** Proposiciones y valores de verdad. Operadores y expresiones lógicas. Tablas de verdad. Leyes lógicas. Condición necesaria y suficiente. Simplificación de expresiones. Álgebra de Boole. Funciones proposicionales. Cuantificadores. Aplicaciones en algoritmos, validaciones y filtros.
+
+**Sistemas numéricos.** Binario, octal y hexadecimal. Representación y transformación entre sistemas.
+
+**Principio de inducción.** Notación suma y producto. Demostración por inducción.
+
+**Conjuntos y Relaciones.** Conjunto, elemento y pertenencia. Definición. Representación. Cardinalidad. Conjuntos especiales. Relaciones. Operaciones. Relaciones en modelado de datos (1:1, 1:N, N:N).
+
+**Funciones.** Dominio y rango. Funciones crecientes/decrecientes. Composición. Funciones inversas (concepto). Aplicación a transformaciones y algoritmos.
+
+## Expresión de Problemas y Algoritmos (02) {#expresión-de-problemas-y-algoritmos-(02)}
+
+| Carga Horaria | 225 hs. (75 IP \+ 150 TA) |  | Créditos | 9 (nueve) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La asignatura Expresión de Problemas y Algoritmos constituye el primer acercamiento de las y los estudiantes a la programación y al pensamiento computacional. Su propósito es desarrollar las capacidades de análisis, abstracción, descomposición y resolución de problemas que sustentan la construcción de software, independientemente de los lenguajes, herramientas o tecnologías utilizadas.
+
+A través del estudio de algoritmos, estructuras de control, tipos de datos y mecanismos básicos de modularización, las y los estudiantes aprenden a modelar situaciones del mundo real y a expresar sus soluciones de manera precisa, sistemática y verificable. Estos conocimientos constituyen la base conceptual sobre la cual se apoyan las asignaturas posteriores vinculadas al desarrollo de software.
+
+En un contexto de creciente disponibilidad de herramientas de automatización y asistencia basada en inteligencia artificial, la capacidad de comprender problemas, diseñar estrategias de solución y evaluar críticamente los resultados obtenidos adquiere una relevancia aún mayor. Por ello, la asignatura pone el foco en el razonamiento algorítmico y la construcción de modelos de solución, promoviendo habilidades transferibles a distintos lenguajes de programación, paradigmas de desarrollo y entornos tecnológicos.
+
+De este modo, el espacio contribuye al desarrollo de competencias fundamentales para la formación de profesionales capaces de analizar problemas, diseñar algoritmos y construir soluciones computacionales de forma rigurosa, comprensible y mantenible.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de analizar problemas, diseñar algoritmos y desarrollar programas sencillos utilizando los principios fundamentales de la programación estructurada y el pensamiento computacional.
+
+Además, cada estudiante deberá:
+
+* analizar problemas y expresar soluciones mediante modelos algorítmicos independientes del lenguaje de programación utilizado;
+
+* aplicar los conceptos de variables, constantes, tipos de datos, operadores y expresiones en la construcción de soluciones algorítmicas;
+
+* seleccionar y utilizar estructuras de control adecuadas para resolver problemas que involucren decisiones y procesos repetitivos;
+
+* diseñar y utilizar funciones y procedimientos para modularizar programas y favorecer la reutilización de soluciones;
+
+* representar y manipular información mediante tipos de datos primitivos y estructuras de datos básicas;
+
+* implementar mecanismos de entrada, procesamiento y salida de datos en programas de consola o entornos equivalentes;
+
+* construir algoritmos que utilicen arreglos, matrices, cadenas de caracteres y archivos como estructuras para el almacenamiento y procesamiento de información;
+
+* aplicar estrategias de descomposición, abstracción y modelización para la resolución de problemas computacionales;
+
+* diseñar e implementar soluciones recursivas para problemas susceptibles de ser definidos mediante recurrencia;
+
+* evaluar la corrección y el comportamiento de algoritmos sencillos mediante pruebas y análisis de resultados;
+
+### **Contenidos Mínimos**
+
+**Resolución de Problemas y Pensamiento Computacional.** Introducción al pensamiento computacional y a la resolución de problemas mediante algoritmos. Conceptos de algoritmo, programa, instrucción y lenguaje de programación. Estrategias de descomposición, abstracción y modelización de problemas.
+
+**Representación de Algoritmos.** Herramientas gráficas y textuales para la representación de algoritmos. Diagramas de flujo, pseudocódigo y otras técnicas de descripción algorítmica.
+
+**Fundamentos de Lógica Aplicada.** Aplicaciones de la lógica en la resolución de problemas algorítmicos. Expresiones lógicas y razonamiento aplicado al diseño de soluciones.
+
+**Conceptos Básicos de Programación.** Variables, constantes, tipos de datos, operadores, expresiones y sentencias. Entrada y salida de información. Estructuras de control secuenciales, selectivas e iterativas.
+
+**Descomposición Modular.** Subalgoritmos, procedimientos y funciones. Reutilización y organización de soluciones algorítmicas.
+
+**Estructuras de Datos Fundamentales.** Arreglos unidimensionales y multidimensionales. Cadenas de caracteres. Archivos: organización, operaciones básicas y estructura jerárquica.
+
+**Recursividad.** Definiciones recursivas. Resolución de problemas mediante técnicas recursivas.
+
+## Diseño Web (03) {#diseño-web-(03)}
+
+| Carga Horaria | 150 hs. (60 IP \+ 90 TA) |  | Créditos | 6 (seis) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura introduce a las y los estudiantes en los fundamentos del desarrollo web mediante el estudio de tecnologías declarativas para la estructuración y presentación de contenidos en Internet, una de las áreas de la programación que emplea la mayor cantidad de programadoras y programadores.
+
+A través de la comprensión del funcionamiento básico de la Web, los navegadores y los servidores, el espacio aborda los principios necesarios para diseñar, construir y publicar sitios web estáticos, incorporando nociones básicas de diseño de interfaces, organización de contenidos y experiencia de usuario.
+
+Asimismo, se introducen herramientas y prácticas fundamentales utilizadas en el desarrollo profesional de software, tales como los sistemas de control de versiones, la gestión colaborativa del código y los procesos básicos de publicación y despliegue de aplicaciones y sitios web.
+
+La asignatura constituye una primera aproximación al desarrollo para Internet y proporciona las bases conceptuales y prácticas necesarias para abordar posteriormente el desarrollo de aplicaciones web dinámicas y sistemas web de mayor complejidad.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de diseñar, implementar y publicar sitios web estáticos utilizando lenguajes de marcado, lenguajes de estilos y herramientas básicas de gestión de código fuente.
+
+Además, cada estudiante deberá:
+
+* comprender el funcionamiento básico de Internet, los navegadores y los servidores web;
+
+* diseñar estructuras de contenido utilizando lenguajes de marcado de acuerdo con estándares web vigentes;
+
+* aplicar lenguajes de estilos para definir la presentación y organización visual de interfaces web;
+
+* interpretar prototipos y diseños de interfaz para transformarlos en implementaciones web funcionales;
+
+* aplicar principios básicos de diseño, organización de contenidos y usabilidad en la construcción de sitios web;
+
+* utilizar sistemas de control de versiones para gestionar la evolución de proyectos de desarrollo.
+
+* publicar y mantener sitios web en entornos de alojamiento y servidores web básicos.
+
+### **Contenidos Mínimos**
+
+**Fundamentos de la Web.** Internet, navegadores, servidores web y protocolos básicos. Sitios web y aplicaciones web. Introducción al desarrollo web y sus tecnologías fundamentales.
+
+**Diseño de Interfaces y Organización de Contenidos.** Principios básicos de experiencia de usuario. Prototipado. Arquitectura de la información. Organización y estructuración de contenidos.
+
+**Lenguajes de Marcado.** Estructura de documentos web. Elementos, atributos, enlaces, recursos multimedia y formularios.
+
+**Lenguajes de Estilo.** Selectores, propiedades y composición visual. Modelo de caja. Posicionamiento y organización visual de interfaces.
+
+**Diseño Responsivo.** Sistemas de disposición unidimensionales y bidimensionales. Adaptación a distintos dispositivos y tamaños de pantalla.
+
+**Herramientas para el Desarrollo Front-End.** Preprocesadores de estilos. Animaciones y transiciones.
+
+**Control de Versiones.** Sistemas de control de versiones. Gestión y organización de repositorios. Flujos básicos de trabajo individual y colaborativo.
+
+**Publicación y Despliegue Web.** Servicios de alojamiento web. Registro y distribución de sitios web. Automatización de procesos de construcción y publicación. Integración continua y despliegue continuo (CI/CD).
+
+## Computación en la Nube I (04) {#computación-en-la-nube-i-(04)}
+
+| Carga Horaria | 75 hs. (45 IP \+ 30 TA) |  | Créditos | 3 (tres) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura introduce a las y los estudiantes en el funcionamiento básico de las computadoras, los sistemas operativos e internet como herramientas fundamentales para el estudio y el ejercicio profesional en informática.
+
+La propuesta busca que las y los estudiantes comprendan, desde una perspectiva práctica, cómo interactúan los programas, el sistema operativo, los archivos y los servicios de internet que utilizan cotidianamente. Asimismo, promueve el desarrollo de hábitos de trabajo digital que permitan organizar información, administrar recursos básicos de una computadora y utilizar de manera crítica y responsable las tecnologías digitales disponibles.
+
+La asignatura complementa la formación inicial en resolución de problemas y algoritmos, aportando conocimientos sobre el entorno tecnológico donde posteriormente se desarrollan y ejecutan los programas. También introduce el uso de herramientas de inteligencia artificial integradas en sistemas operativos y aplicaciones, favoreciendo un empleo consciente, crítico y productivo de estas tecnologías.
+
+Finalmente, se abordan los conceptos esenciales de internet y conectividad que servirán como base para asignaturas posteriores vinculadas al desarrollo web y los servicios digitales.
+
+### **Objetivos**
+
+Al finalizar la asignatura, el/la estudiante deberá ser capaz de utilizar de manera autónoma y responsable las herramientas básicas de una computadora, comprender el rol de los sistemas operativos e internet en la ejecución de aplicaciones y emplear recursos digitales para apoyar sus procesos de aprendizaje y resolución de problemas.
+
+Se espera que las y los estudiantes:
+
+* reconozcan los componentes básicos de una computadora y la función que cumplen en la ejecución de programas;
+
+* comprendan el rol del sistema operativo como intermediario entre las aplicaciones, los usuarios y los recursos del equipo;
+
+* organicen y administren archivos y carpetas utilizando herramientas gráficas y comandos básicos de terminal;
+
+* utilicen herramientas esenciales del sistema operativo para la búsqueda, almacenamiento y gestión de información;
+
+* empleen asistentes basados en inteligencia artificial como herramientas de apoyo para el aprendizaje, la productividad y la resolución de problemas, comprendiendo sus alcances y limitaciones;
+
+* comprendan los conceptos básicos de redes, internet y servicios digitales de uso cotidiano;
+
+* verifiquen aspectos básicos de conectividad mediante herramientas simples del sistema operativo;
+
+* desarrollen buenas prácticas de seguridad, respaldo y protección de la información personal.
+
+### **Contenidos Mínimos**
+
+**La computadora como herramienta de trabajo.** Componentes básicos de una computadora: procesador, memoria, almacenamiento y dispositivos de entrada y salida. Relación entre hardware, software y datos. Funcionamiento general de la ejecución de programas.
+
+**Sistemas Operativos.** Funciones básicas. Interfaz gráfica y herramientas del sistema. Organización de archivos y carpetas. Creación, copia, movimiento y eliminación de archivos. Búsqueda de información en el sistema. Instalación y actualización básica de aplicaciones.
+
+**Introducción a la terminal.** Concepto de línea de comandos. Navegación por directorios. Comandos básicos para gestión de archivos y carpetas. Visualización de información del sistema. Automatización elemental mediante scripts simples.
+
+**Internet y servicios digitales.** Conceptos básicos de redes e internet. Conectividad. Navegadores, buscadores y servicios en línea. Introducción al funcionamiento general de sitios y aplicaciones web. Identidad digital, almacenamiento en la nube y sincronización de información.
+
+**Inteligencia artificial de uso cotidiano.** Herramientas de IA integradas en sistemas operativos y servicios digitales. Estrategias básicas para la interacción con asistentes inteligentes. Uso responsable, verificación de resultados, limitaciones y consideraciones éticas.
+
+**Seguridad y protección de la información.** Contraseñas, autenticación, copias de respaldo, actualización de sistemas y buenas prácticas de seguridad digital.
+
+## Inglés Técnico I (05) {#inglés-técnico-i-(05)}
+
+| Carga Horaria | 100 hs. (60 IP \+ 40 TA) |  | Créditos | 4 (cuatro) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+El inglés constituye el principal idioma de comunicación de la industria del software y de gran parte de los recursos utilizados en la formación y práctica profesional de las tecnologías de la información. Documentación técnica, tutoriales, manuales, bibliotecas, herramientas de desarrollo, sistemas de control de versiones, plataformas colaborativas y asistentes basados en inteligencia artificial emplean este idioma como medio predominante para la difusión y el intercambio de conocimiento.
+
+La asignatura tiene como propósito desarrollar las competencias fundamentales que permitan a las y los estudiantes acceder, comprender e interpretar información técnica en inglés, favoreciendo su autonomía para aprender nuevas tecnologías y resolver problemas mediante el acceso a fuentes originales de información.
+
+Asimismo, se promueve el desarrollo de habilidades básicas de comunicación escrita y oral en contextos tecnológicos, incorporando vocabulario específico de la disciplina y estrategias para el uso crítico de recursos digitales de apoyo lingüístico.
+
+De este modo, la asignatura contribuye a la formación de profesionales capaces de desenvolverse en entornos tecnológicos donde el inglés constituye una herramienta cotidiana para el aprendizaje, la búsqueda de información y la comunicación técnica.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de comprender y utilizar información técnica básica en inglés vinculada al ámbito de la informática y el desarrollo de software.
+
+Además, cada estudiante deberá:
+
+* comprender documentación técnica introductoria relacionada con informática, programación y tecnologías digitales;
+
+* identificar y utilizar vocabulario técnico frecuente en entornos de desarrollo de software;
+
+* aplicar estrategias de lectura para localizar, interpretar y recuperar información relevante en documentación técnica;
+
+* interpretar instrucciones de instalación, tutoriales, mensajes de error y recursos de ayuda utilizados en herramientas informáticas;
+
+* utilizar fuentes de información técnica en inglés para apoyar procesos de aprendizaje y resolución de problemas;
+
+* redactar comunicaciones breves vinculadas con actividades académicas y técnicas;
+
+* presentarse personal y profesionalmente utilizando terminología básica del ámbito tecnológico;
+
+* utilizar herramientas digitales de apoyo lingüístico y asistentes basados en inteligencia artificial para mejorar la comprensión de textos técnicos.
+
+### **Contenidos Mínimos**
+
+**Comprensión de Textos Técnicos.** Estrategias de lectura y comprensión de textos especializados. Lectura global y lectura focalizada. Identificación de información relevante y extracción de conceptos técnicos.
+
+**Vocabulario Técnico de Informática.** Terminología básica relacionada con informática, programación, sistemas operativos, redes, Internet y desarrollo de software.
+
+**Estructuras Básicas del Inglés Técnico.** Estructuras fundamentales del idioma aplicadas a la comprensión de documentación técnica. Formación de palabras. Prefijos, sufijos y terminología especializada.
+
+**Documentación y Recursos Técnicos.** Lectura e interpretación de tutoriales, manuales, documentación técnica y recursos de aprendizaje. Análisis de mensajes de error, comandos e instrucciones de instalación y configuración.
+
+**Búsqueda y Recuperación de Información.** Búsqueda, selección y evaluación de información técnica en fuentes especializadas. Uso de diccionarios, traductores, glosarios y herramientas de asistencia lingüística.
+
+**Comunicación Escrita Básica.** Producción escrita en contextos profesionales y tecnológicos. Presentación personal y profesional. Redacción de mensajes breves, descripciones técnicas y reportes simples.
+
+**Inglés para el Desarrollo de Software Asistido por IA.** Introducción al uso del inglés en asistentes de programación, documentación generada mediante inteligencia artificial y herramientas de apoyo al desarrollo de software.
+
+## Matemáticas II (06) {#matemáticas-ii-(06)}
+
+| Carga Horaria | 150 hs. (60 IP \+ 90 TA) |  | Créditos | 6 (seis) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+En Matemáticas II, las y los estudiantes continúan con su trayecto de formación en los contenidos matemáticos de interés para la programación, ofreciendo a las personas que cursan las herramientas necesarias para modelar y resolver problemas de complejidad elevada en programación.
+
+Se toman como base los temas expuestos en Matemática I para profundizar sobre las nociones esenciales como son los límites, las derivadas y las integrales.
+
+Luego, con la inclusión de nociones de Sistemas de Ecuaciones, Matrices y Vectores se exponen estrategias útiles a la hora de modelar soluciones algorítmicas y de datos.
+
+### **Objetivos**
+
+Se espera que cada estudiante pueda adquirir conocimientos básicos de matemática en la disciplina de la programación que le permita:
+
+* apropiarse de los conceptos básicos de lógica, conjuntos y funciones en el campo de las matemáticas;
+
+* comprender el uso y la importancia de las funciones en la escritura de programas estructurados y funcionales;
+
+* operar con matrices y vectores para resolver problemas computacionales;
+
+* resolver sistemas lineales aplicados a modelado y algoritmos;
+
+* interpretar el comportamiento de funciones y variaciones;
+
+* aplicar conceptos de álgebra lineal a grafos, IA clásica y transformaciones.
+
+### **Contenidos Mínimos**
+
+**Álgebra lineal básica.** Vectores en plano y espacio. Operaciones con vectores. Matrices básicas. Suma, producto, transposición. Matrices booleanas (aplicación a grafos y relaciones).
+
+**Sistemas de ecuaciones.** Sistemas lineales. Métodos simples (sustitución, eliminación). Interpretación geométrica. Aplicación a problemas computacionales.
+
+**Funciones y variación.** Límites simples (interpretación, no cálculo formal). Derivada como tasa de cambio. Crecimiento y decrecimiento. Máximos y mínimos simples. Modelos de variación.
+
+**Modelos computacionales.** Representación matricial de grafos. Transformaciones lineales simples. Aplicación a IA clásica (búsqueda, heurísticas). Aplicación a gráficos y geometría computacional.
+
+## Paradigmas de Programación (07) {#paradigmas-de-programación-(07)}
+
+| Carga Horaria | 150 hs. (60 IP \+ 90 TA) |  | Créditos | 6 (seis) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La programación constituye una disciplina en permanente evolución, en la que diferentes paradigmas proponen modelos conceptuales para representar problemas y construir soluciones de software. Estos paradigmas no sólo definen formas particulares de escribir programas, sino también distintas maneras de analizar, modelar y resolver problemas computacionales.
+
+Los lenguajes de programación contemporáneos incorporan características provenientes de múltiples paradigmas, permitiendo combinar enfoques imperativos, orientados a objetos, funcionales, lógicos, reactivos y orientados a eventos dentro de una misma solución. En consecuencia, la formación de las personas que programan requiere comprender los fundamentos teóricos de estos modelos y reconocer las ventajas, limitaciones y ámbitos de aplicación de cada uno de ellos.
+
+La asignatura propone estudiar los principales paradigmas de programación a partir de la resolución progresiva de problemas utilizando un mismo entorno de desarrollo, favoreciendo el análisis comparativo de distintas estrategias de diseño e implementación. De esta manera, se busca que las y los estudiantes desarrollen criterios para seleccionar, combinar y justificar el uso de diferentes paradigmas según las características del problema a resolver, promoviendo una visión integradora del desarrollo de software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* comprenda los fundamentos conceptuales y los modelos formales de los principales paradigmas de programación utilizados en el desarrollo de software contemporáneo;
+
+* identifique las características, ventajas, limitaciones y ámbitos de aplicación de los distintos paradigmas y su manifestación en lenguajes multiparadigma;
+
+* implemente soluciones a un mismo problema utilizando enfoques imperativos, orientados a objetos, funcionales, lógicos, reactivos y orientados a eventos;
+
+* analice y compare distintas alternativas de diseño, evaluando el impacto de las decisiones tomadas sobre la estructura, mantenibilidad y evolución del software;
+
+* integre y combine paradigmas de programación en la construcción de soluciones de software, fundamentando técnicamente las decisiones adoptadas.
+
+### **Contenidos Mínimos**
+
+**Introducción a los Lenguajes y Paradigmas de Programación.** Concepto de paradigma. Evolución histórica de los lenguajes de programación. Lenguajes multiparadigma. Elementos constitutivos de los lenguajes de programación. Sintaxis, semántica y sistemas de tipos.
+
+**Paradigma Imperativo.** Modelos de ejecución secuencial. Programación estructurada. Abstracción procedimental. Gestión del estado, alcance y ciclo de vida de los datos. Modularización.
+
+**Paradigma Orientado a Objetos.** Objetos, clases y prototipos.
+
+**Paradigma Declarativo.** Descripción del problema mediante especificaciones, reglas o expresiones. Separación entre el qué y el cómo. Abstracción de los mecanismos de control y evaluación.
+
+**Paradigma Funcional.** Funciones como ciudadanos de primera clase. Inmutabilidad. Funciones puras. Recursión. Funciones de orden superior. Evaluación perezosa. Aplicaciones en lenguajes modernos.
+
+**Paradigma Lógico y Basado en Restricciones.** Representación del conocimiento. Hechos, reglas e inferencias. Resolución de problemas mediante búsqueda lógica y restricciones.
+
+**Paradigma Reactivo y Orientado a Eventos.** Flujo de eventos. Programación asíncrona. Observables, señales y propagación de cambios.
+
+**Integración de Paradigmas.** Análisis comparativo de paradigmas. Selección de paradigmas según el problema a resolver. Combinación de enfoques en lenguajes multiparadigma contemporáneos.
+
+## Programación I (08) {#programación-i-(08)}
+
+| Carga Horaria | 150 hs. (60 IP \+ 90 TA) |  | Créditos | 6 (seis) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura continúa la formación en programación iniciada en la asignatura correlativa anterior, profundizando en el desarrollo de software mediante el paradigma de Programación Orientada a Objetos. A través de este enfoque, las y los estudiantes incorporan herramientas y técnicas para modelar problemas del mundo real mediante clases, objetos y relaciones entre ellos, promoviendo la construcción de soluciones de software modulares, reutilizables y mantenibles.
+
+Asimismo, la asignatura introduce estructuras de datos y algoritmos fundamentales para el procesamiento eficiente de la información, permitiendo analizar distintas estrategias de resolución de problemas y comprender el impacto de las decisiones de diseño sobre el rendimiento y la utilización de recursos computacionales.
+
+En el marco de la formación en desarrollo de software, se abordan también mecanismos de gestión de errores y excepciones, manejo de archivos y persistencia de datos, integrando estos conocimientos en aplicaciones de línea de comandos que permitan poner en práctica los conceptos estudiados.
+
+De esta manera, la asignatura proporciona las bases necesarias para el diseño e implementación de aplicaciones orientadas a objetos, el uso de estructuras de datos adecuadas y el análisis de la complejidad de algoritmos, constituyendo un fundamento para asignaturas posteriores vinculadas al desarrollo de software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* aplique los principios fundamentales de la Programación Orientada a Objetos en el diseño e implementación de soluciones de software;
+
+* utilice adecuadamente clases, objetos, mecanismos de encapsulamiento, herencia, interfaces y polimorfismo;
+
+* implemente y emplee estructuras de datos lineales y no lineales para la resolución de problemas computacionales;
+
+* desarrolle algoritmos de búsqueda, ordenamiento y procesamiento de datos, considerando criterios de eficiencia;
+
+* gestione errores y excepciones mediante mecanismos apropiados de detección, propagación y recuperación;
+
+* utilice mecanismos de entrada y salida, persistencia y manejo de archivos en aplicaciones de línea de comandos;
+
+* analice la complejidad temporal y espacial de algoritmos y estructuras de datos utilizando notaciones asintóticas básicas.
+
+### **Contenidos Mínimos**
+
+**Introducción a la Programación Orientada a Objetos.** Objetos, clases, atributos, métodos y constructores. Encapsulamiento. Herencia. Interfaces. Polimorfismo. Clases y métodos abstractos. Sobrecarga y redefinición de métodos. Modificadores de acceso. Diseño e implementación de aplicaciones orientadas a objetos.
+
+**Gestión de Errores y Excepciones.** Tipos de errores. Detección, manejo y propagación de excepciones. Estrategias de validación y recuperación ante errores.
+
+**Estructuras de Datos.** Implementación y utilización de estructuras de datos estáticas y dinámicas. Arreglos, listas, pilas, colas, árboles y grafos.
+
+**Algoritmos Fundamentales.** Algoritmos de búsqueda, ordenamiento e intercalación. Selección de estructuras y algoritmos según el problema a resolver.
+
+**Entrada y Salida de Datos.** Administración de entrada y salida. Manejo de archivos. Sistema de archivos. Lectura, escritura y persistencia de datos.
+
+**Complejidad Algorítmica.** Complejidad temporal y espacial. Análisis de eficiencia. Notaciones asintóticas O, Ω y Θ.
+
+## Bases de Datos I (09) {#bases-de-datos-i-(09)}
+
+| Carga Horaria | 100 hs. (60 IP \+40 TA) |  | Créditos | 4 (cuatro) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La gestión eficiente de la información constituye un aspecto fundamental en el desarrollo de sistemas de software. En este curso se introducen los principios del modelado de datos mediante el modelo Entidad-Relación y los conceptos necesarios para diseñar bases de datos que representen adecuadamente los requisitos de un problema.
+
+La asignatura proporciona una visión general de los sistemas de bases de datos, sus modelos de representación y los distintos enfoques utilizados para el almacenamiento y gestión de la información. Asimismo, se abordan los fundamentos de los sistemas de gestión de bases de datos relacionales (SGBD), haciendo especial énfasis en el diseño conceptual y su transformación al modelo relacional.
+
+Finalmente, se introducen las herramientas necesarias para la definición, consulta y manipulación de datos mediante el lenguaje SQL, permitiendo a las y los estudiantes implementar modelos de datos y operar sobre ellos en un entorno real de gestión de bases de datos.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* comprenda los fundamentos de los sistemas de bases de datos y de los sistemas de gestión de bases de datos relacionales;
+
+* identifique los principales modelos de datos y sus ámbitos de aplicación;
+
+* modele problemas sencillos mediante diagramas Entidad-Relación;
+
+* transforme diseños conceptuales en esquemas relacionales;
+
+* implemente bases de datos en un sistema de gestión de bases de datos relacional;
+
+* utilice el lenguaje SQL para definir estructuras, consultar información y manipular datos;
+
+* realice operaciones básicas de administración y acceso a bases de datos.
+
+### **Contenidos Mínimos**
+
+**Introducción a las Bases de Datos.** Evolución histórica. Conceptos fundamentales. Sistemas de bases de datos y sistemas de gestión de bases de datos (SGBD). Arquitectura y componentes de un SGBD. Modelos de bases de datos y ámbitos de aplicación.
+
+**Modelado de Datos.** Modelo Entidad-Relación. Entidades, atributos, relaciones y restricciones. Modelo Relacional. Transformación del modelo Entidad-Relación al modelo Relacional. Normalización. Primera, Segunda y Tercera Forma Normal.
+
+**Sistemas de Gestión de Bases de Datos Relacionales.** Implementación de esquemas relacionales en un SGBD. Administración básica de bases de datos.
+
+**Lenguaje SQL.** Lenguaje de Definición de Datos (DDL/LDD). Lenguaje de Manipulación de Datos (DML/LMD). Consultas básicas. Inserción, actualización y eliminación de datos.
+
+## Computación en la Nube II (10) {#computación-en-la-nube-ii-(10)}
+
+| Carga Horaria | 100 hs. (45 IP \+ 55 TA) |  | Créditos | 4 (cuatro) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura introduce a las y los estudiantes en los fundamentos conceptuales y prácticos necesarios para desarrollar, desplegar y administrar aplicaciones en entornos de computación en la nube. Se abordan los modelos esenciales definidos por el NIST, los servicios y arquitecturas que conforman las plataformas modernas de cloud computing, y las herramientas básicas para operar servicios en red.
+
+El curso integra el uso de terminal y scripting para la automatización de tareas, el manejo de protocolos fundamentales de internet (HTTP, DNS, SSH) y los principios de seguridad necesarios para trabajar en entornos distribuidos. Asimismo, se estudian los modelos de servicios (SaaS, PaaS, IaaS), los modelos de despliegue y las arquitecturas serverless, preparando a las y los estudiantes para participar en procesos de desarrollo, integración y operación de aplicaciones basadas en la nube.
+
+Debido a la naturaleza distribuida de las tecnologías abordadas, las actividades prácticas podrán desarrollarse mediante laboratorios virtuales, servicios de computación en la nube y entornos remotos de experimentación, favoreciendo el acceso a experiencias de aprendizaje auténticas y acordes con las prácticas profesionales contemporáneas.
+
+### **Objetivos**
+
+Al finalizar el curso, las y los estudiantes serán capaces de:
+
+* comprender los principios fundamentales de la computación en la nube y su impacto en el desarrollo de software;
+
+* utilizar herramientas de terminal y scripting para automatizar tareas y administrar servicios básicos;
+
+* aplicar protocolos esenciales de internet para el despliegue y operación de aplicaciones;
+
+* reconocer y diferenciar los modelos de servicios (SaaS, PaaS, IaaS) y los modelos de despliegue en la nube;
+
+* interpretar la arquitectura de referencia del NIST y los actores involucrados en los ecosistemas cloud;
+
+* comprender los fundamentos de arquitecturas serverless y el uso de funciones como servicio (FaaS);
+
+* aplicar principios básicos de seguridad en entornos de red y servicios en la nube.
+
+### **Contenidos Mínimos**
+
+**Fundamentos de la Computación en la Nube.** Definición y características esenciales. Modelo de Computación en Nube del NIST. Beneficios y desafíos. Modelos de Servicios: SaaS, PaaS, IaaS. Modelos de Despliegue: nube pública, privada, comunitaria e híbrida.
+
+**Arquitectura y Ecosistema Cloud.** Arquitectura de Referencia del NIST. Actores de la Nube: consumidor, proveedor, auditor, intermediario, operador. Componentes arquitectónicos. Orquestación y administración de servicios.
+
+**Protocolos y Servicios de Internet para la Nube.** HTTP/HTTPS, DNS, SSH. Modelo Cliente/Servidor aplicado a servicios web. Herramientas de diagnóstico: ping, traceroute, nslookup/dig, curl. Variables de entorno y configuración de servicios.
+
+**Automatización y Scripting.** Uso de terminal. Shell scripting: variables, entrada/salida, condicionales, bucles, ejecución de tareas automatizadas. Integración con servicios y despliegues.
+
+**Seguridad en la Nube.** Confidencialidad, integridad y disponibilidad. Autenticación y autorización. Cifrado. Riesgos comunes y mecanismos básicos de defensa en entornos distribuidos.
+
+**Arquitecturas Serverless.** Conceptos básicos. Funciones como Servicio (FaaS). Ventajas, limitaciones y casos de uso. Integración con servicios cloud.
+
+## Inglés Técnico II (11) {#inglés-técnico-ii-(11)}
+
+| Carga Horaria | 100 hs. (60 IP \+ 40 TA) |  | Créditos | 4 (cuatro) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La práctica profesional en el ámbito del desarrollo de software requiere no sólo comprender documentación técnica, sino también comunicarse eficazmente con equipos de trabajo, clientes, proveedores y comunidades tecnológicas internacionales. En este contexto, el inglés se convierte en una herramienta esencial para el trabajo colaborativo, la actualización profesional continua y el acceso a tecnologías emergentes.
+
+La asignatura profundiza las competencias desarrolladas en Inglés Técnico I mediante el trabajo con materiales auténticos utilizados en la industria del software, promoviendo la comprensión de documentación avanzada y el desarrollo de habilidades de comunicación oral y escrita en contextos profesionales.
+
+Asimismo, incorpora actividades vinculadas con el análisis de especificaciones, la documentación de sistemas, la participación en entornos colaborativos y la interacción con herramientas y servicios tecnológicos que utilizan el inglés como idioma principal.
+
+De este modo, la asignatura contribuye al desarrollo de profesionales capaces de participar activamente en entornos laborales internacionales, comunicando ideas, propuestas y soluciones técnicas de manera efectiva.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de utilizar el inglés de forma efectiva en situaciones profesionales habituales vinculadas con el desarrollo de software y las tecnologías de la información.
+
+Además, cada estudiante deberá:
+
+* analizar e interpretar documentación técnica especializada relacionada con software, sistemas y tecnologías de la información;
+
+* comprender documentación de APIs, bibliotecas, frameworks y herramientas de desarrollo;
+
+* elaborar comunicaciones técnicas escritas utilizando terminología profesional apropiada;
+
+* describir procesos, arquitecturas, productos y soluciones tecnológicas;
+
+* participar en intercambios orales vinculados con actividades profesionales del desarrollo de software;
+
+* comunicar avances, problemas y resultados en reuniones técnicas y entornos colaborativos;
+
+* presentar y justificar decisiones técnicas de forma clara y estructurada;
+
+* utilizar el inglés para interactuar con repositorios de código, plataformas colaborativas y asistentes basados en inteligencia artificial;
+
+* participar en entrevistas laborales iniciales y situaciones de comunicación profesional habituales en la industria del software;
+
+* evaluar y sintetizar información proveniente de fuentes técnicas internacionales.
+
+### **Contenidos Mínimos**
+
+**Documentación Técnica Avanzada.** Lectura, análisis e interpretación de especificaciones de software, documentación funcional y documentación de requisitos.
+
+**Documentación de Tecnologías de Desarrollo.** Documentación de APIs, bibliotecas, frameworks, SDKs y herramientas de desarrollo. Interpretación de ejemplos, configuraciones, referencias técnicas y guías de implementación.
+
+**Vocabulario Especializado de Informática.** Terminología vinculada con programación, arquitectura de software, bases de datos, desarrollo web, infraestructura tecnológica y procesos de desarrollo de software.
+
+**Comunicación Profesional Escrita.** Redacción de correos electrónicos, reportes, incidencias, documentación técnica breve y comunicaciones profesionales en entornos tecnológicos.
+
+**Comunicación Profesional Oral.** Presentaciones breves. Participación en reuniones técnicas. Seguimiento de tareas. Descripción de proyectos y experiencias profesionales. Entrevistas laborales en contextos tecnológicos.
+
+**Plataformas y Entornos Colaborativos.** Repositorios de código fuente. Documentación de proyectos. Gestión de incidencias, cambios y contribuciones en entornos colaborativos de desarrollo.
+
+**Análisis de Información Técnica.** Estrategias avanzadas de lectura, análisis, síntesis, evaluación y comunicación de información técnica proveniente de diversas fuentes.
+
+**Inglés Profesional para el Desarrollo de Software.** Uso del inglés en equipos de desarrollo, documentación internacional, herramientas de asistencia al desarrollo e interacción con sistemas basados en inteligencia artificial.
+
+## Probabilidad y Estadística (12) {#probabilidad-y-estadística-(12)}
+
+| Carga Horaria | 125 hs. (60 IP \+ 65 TA) |  | Créditos | 5 (cinco) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura continúa la formación matemática iniciada en Matemáticas I y Matemáticas II, incorporando herramientas y métodos para el análisis, la interpretación y la toma de decisiones a partir de datos. La estadística y la probabilidad constituyen disciplinas fundamentales para comprender fenómenos aleatorios, modelar situaciones reales y extraer conocimiento a partir de la información disponible.
+
+La materia aborda los conceptos esenciales de la estadística descriptiva, la probabilidad, la inferencia estadística, el análisis de la relación entre variables y los modelos básicos de regresión, promoviendo la interpretación crítica de los resultados obtenidos y la evaluación de las conclusiones derivadas de los datos.
+
+Asimismo, se enfatiza la aplicación práctica de estos conocimientos mediante el uso de un lenguaje de programación y bibliotecas especializadas para el análisis, procesamiento y visualización de datos, favoreciendo el desarrollo de habilidades vinculadas al tratamiento informático de la información y al análisis cuantitativo en contextos propios de la informática y el desarrollo de software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* comprenda los fundamentos de la estadística y la probabilidad como herramientas para el análisis y la interpretación de datos;
+
+* describa y analice variables estadísticas mediante técnicas de estadística descriptiva;
+
+* aplique modelos probabilísticos adecuados para representar fenómenos aleatorios y apoyar la toma de decisiones;
+
+* analice la relación entre variables mediante técnicas de correlación, regresión y análisis de la varianza;
+
+* realice estimaciones e interprete pruebas de hipótesis para la evaluación de resultados y la validación de supuestos;
+
+* analice e interprete datos a partir de su procesamiento informático, identificando patrones y tendencias relevantes;
+
+* comunique resultados estadísticos utilizando terminología y representaciones apropiadas;
+
+* extraiga conclusiones fundamentadas a partir de los resultados obtenidos;
+
+* utilice un lenguaje de programación y bibliotecas especializadas para el análisis, procesamiento y visualización de datos.
+
+### **Contenidos Mínimos**
+
+**Estadística Descriptiva.** Conceptos fundamentales de estadística. Población y muestra. Variables estadísticas: clasificación y representación. Parámetros, estimadores y estimaciones. Medidas de posición, dispersión y variabilidad.
+
+**Probabilidad.** Experimentos determinísticos y aleatorios. Espacio muestral y eventos. Propiedades de la probabilidad. Probabilidad condicional. Variables aleatorias. Distribuciones de probabilidad discretas y continuas.
+
+**Inferencia Estadística.** Estimación de parámetros. Pruebas de hipótesis. Análisis de resultados e interpretación de conclusiones estadísticas.
+
+**Análisis de la Varianza.** Modelos de análisis de varianza. Cuadro de análisis. Experimentos factoriales. Efectos principales e interacciones.
+
+**Regresión y Correlación.** Relación entre variables. Modelo de regresión lineal simple. Análisis de correlación lineal. Coeficiente de correlación e interpretación de resultados.
+
+**Programación para el Análisis de Datos.** Uso de un lenguaje de programación para la manipulación y análisis de datos. Estructuras de datos, funciones y estructuras de control aplicadas al procesamiento estadístico. Bibliotecas para análisis e interpretación de datos y generación de visualizaciones.
+
+## Análisis y Diseño de Sistemas (13) {#análisis-y-diseño-de-sistemas-(13)}
+
+| Carga Horaria | 125 hs. (60 IP \+ 65 TA) |  | Créditos | 5 (cinco) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+El análisis y diseño de sistemas constituye una etapa fundamental en el desarrollo de software, ya que permite comprender la realidad organizacional, identificar necesidades, definir objetivos y construir modelos que representen adecuadamente el problema a resolver. Antes de implementar una solución informática, resulta necesario comprender el dominio de aplicación, los procesos involucrados, los actores participantes y la información que circula dentro de la organización.
+
+Esta asignatura introduce a las y los estudiantes en el análisis organizacional, la modelización del negocio y la ingeniería de requisitos, proporcionando herramientas para relevar, documentar y representar las necesidades de usuarios y organizaciones. Se abordan conceptos provenientes de la Teoría General de Sistemas y de los Sistemas de Información, que permiten analizar organizaciones como sistemas complejos compuestos por procesos, recursos y flujos de información.
+
+Asimismo, se estudian técnicas de modelado conceptual utilizando el Lenguaje Unificado de Modelado (UML), favoreciendo la construcción de representaciones formales que sirvan como base para las etapas posteriores de diseño e implementación. De esta manera, la asignatura brinda los fundamentos necesarios para comprender qué debe construir un sistema de software y cuáles son las necesidades que dicho sistema debe satisfacer.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante pueda:
+
+* comprender los fundamentos de la Teoría General de Sistemas y su aplicación al análisis de organizaciones y sistemas de información;
+
+* identificar, relevar, analizar y documentar requisitos funcionales y no funcionales;
+
+* modelar procesos, actores, escenarios y reglas de negocio mediante técnicas de análisis y representación conceptual;
+
+* utilizar el Lenguaje Unificado de Modelado (UML) para representar requisitos, procesos y modelos conceptuales del sistema;
+
+* analizar el ciclo de vida del software y reconocer el papel de las actividades de análisis dentro del proceso de desarrollo;
+
+* elaborar modelos conceptuales de datos y dominios de negocio que sirvan de base para las etapas posteriores de diseño e implementación;
+
+* producir documentación de análisis que facilite la comunicación entre personas usuarias, analistas y personas desarrolladoras.
+
+### **Contenidos Mínimos**
+
+**Teoría General de Sistemas.** Sistemas: clasificación, propiedades, entradas, procesos, salidas y mecanismos de retroalimentación. Dato, información y conocimiento. Sistemas de información. La organización como sistema.
+
+**Análisis Organizacional y Modelización del Negocio.** Modelización del negocio. Procesos, actores, objetivos y escenarios. Técnicas de abstracción y representación de dominios.
+
+**Ingeniería de Requisitos.** Requisitos funcionales y no funcionales. Técnicas de relevamiento, análisis y validación. Documentación y gestión de requisitos.
+
+**Modelado UML para Análisis.** Casos de uso. Diagramas de actividades. Diagramas de clases conceptuales. Relaciones entre elementos del modelo. Trazabilidad entre requisitos y modelos.
+
+**Ciclo de Vida del Software.** Visión general de los procesos de desarrollo y su impacto en las actividades de análisis.
+
+**Modelos Conceptuales.** Modelado conceptual de datos. Introducción al diseño orientado a objetos desde la perspectiva del análisis.
+
+## Programación II (14) {#programación-ii-(14)}
+
+| Carga Horaria | 175 hs. (60 IP \+ 115 TA) |  | Créditos | 7 (siete) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura profundiza la formación en programación orientada a objetos iniciada en Programación I, incorporando herramientas y técnicas necesarias para el desarrollo de aplicaciones interactivas y sistemas con mayores niveles de complejidad.
+
+La materia aborda la construcción de interfaces gráficas de usuario, la programación orientada a eventos, la concurrencia y la comunicación entre aplicaciones mediante mecanismos de red, permitiendo a las y los estudiantes desarrollar soluciones que integren distintos componentes y recursos de ejecución.
+
+Asimismo, se introducen prácticas vinculadas a la calidad del software mediante el uso de pruebas automatizadas y los fundamentos del desarrollo guiado por pruebas. Estos conocimientos favorecen la construcción de aplicaciones más robustas, mantenibles y confiables.
+
+De esta manera, la asignatura amplía las capacidades de programación adquiridas previamente y proporciona herramientas para el desarrollo de aplicaciones completas, integrando interfaces de usuario, lógica de negocio, persistencia y comunicación.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* aplique conceptos avanzados de programación orientada a objetos en el desarrollo de aplicaciones;
+
+* diseñe e implemente interfaces gráficas de usuario utilizando mecanismos de programación orientada a eventos;
+
+* utilice colecciones y estructuras provistas por el lenguaje para la gestión eficiente de información;
+
+* desarrolle aplicaciones concurrentes mediante el uso de múltiples hilos de ejecución;
+
+* implemente mecanismos básicos de comunicación entre aplicaciones utilizando tecnologías de red;
+
+* gestione adecuadamente recursos de ejecución, memoria y excepciones en aplicaciones de complejidad media;
+
+* desarrolle y automatice pruebas unitarias para validar el comportamiento del software;
+
+* aplique los fundamentos del Desarrollo Guiado por Pruebas (TDD);
+
+* integre interfaces de usuario, persistencia de datos y mecanismos de comunicación en aplicaciones completas.
+
+### **Contenidos Mínimos**
+
+**Programación Orientada a Objetos Avanzada.** Colecciones. Genéricos. Interfaces y clases abstractas. Ligadura dinámica y polimorfismo avanzado.
+
+**Interfaces Gráficas de Usuario.** Diseño e implementación de interfaces gráficas. Componentes visuales. Gestión de eventos.
+
+**Concurrencia.** Concepto de proceso e hilo. Comunicación y sincronización entre hilos. Problemas clásicos de concurrencia. Programación multihilo.
+
+**Comunicación y Redes.** Conceptos básicos de networking. Modelos cliente-servidor. Comunicación mediante sockets. Intercambio de información entre aplicaciones.
+
+**Gestión de Recursos.** Administración de memoria. Memoria virtual. Gestión de recursos durante la ejecución de aplicaciones.
+
+**Calidad de Software.** Pruebas unitarias. Automatización de pruebas. Introducción al Desarrollo Guiado por Pruebas (TDD).
+
+**Integración de Aplicaciones.** Desarrollo de aplicaciones de escritorio que integren interfaces gráficas, persistencia, concurrencia y comunicación entre procesos.
+
+## Bases de Datos II (15) {#bases-de-datos-ii-(15)}
+
+| Carga Horaria | 175 hs. (60 IP \+ 90 TA) |  | Créditos | 6 (seis) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La gestión de datos constituye un componente central de los sistemas de información modernos. Sobre la base de los conocimientos adquiridos en Bases de Datos I, esta asignatura profundiza los aspectos relacionados con el diseño lógico, la implementación, la administración y la evolución de bases de datos en entornos reales de desarrollo.
+
+La materia aborda conceptos avanzados del modelo relacional, el álgebra relacional y el lenguaje SQL, incorporando herramientas que permiten desarrollar consultas complejas, optimizar el acceso a los datos y construir mecanismos de automatización mediante vistas, procedimientos almacenados, funciones y desencadenadores.
+
+Asimismo, se estudian aspectos fundamentales para la operación de sistemas de bases de datos, tales como la seguridad, la gestión de usuarios y permisos, las transacciones, los índices y los mecanismos de respaldo y recuperación.
+
+Finalmente, se introducen prácticas modernas para la gestión del ciclo de vida de las bases de datos, incluyendo el versionado de esquemas, la automatización de cambios, las migraciones y el despliegue en distintos entornos de trabajo. Como complemento, se presentan nociones introductorias sobre minería de datos y modelos de bases de datos NoSQL, ampliando la visión de las y los estudiantes sobre los enfoques actuales de almacenamiento y procesamiento de información.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante:
+
+* aplique conceptos avanzados del modelo relacional y del lenguaje SQL para la consulta y manipulación eficiente de datos;
+
+* analice y optimice consultas utilizando fundamentos del álgebra relacional e índices;
+
+* implemente vistas, subconsultas, procedimientos almacenados, funciones y desencadenadores para automatizar operaciones sobre los datos;
+
+* administre usuarios, permisos, mecanismos de seguridad y transacciones en un sistema de gestión de bases de datos;
+
+* aplique estrategias de respaldo y recuperación de bases de datos;
+
+* gestione la evolución de esquemas mediante técnicas de versionado, migraciones y control de cambios;
+
+* automatice el despliegue de cambios en distintos entornos e integre la gestión de bases de datos en procesos de desarrollo continuo;
+
+* reconozca las características, ventajas y limitaciones de los modelos NoSQL y de las técnicas básicas de minería de datos.
+
+### **Contenidos Mínimos**
+
+**Fundamentos Avanzados del Modelo Relacional.** Álgebra relacional. Optimización de consultas. SQL avanzado.
+
+**Programación sobre Bases de Datos.** Vistas. Consultas complejas y subconsultas. Informes. Procedimientos almacenados. Funciones escalares y de tabla. Desencadenadores.
+
+**Administración de Bases de Datos.** Usuarios, roles, seguridad y permisos. Transacciones. Índices. Respaldo y recuperación de bases de datos.
+
+**Gestión de Cambios y Evolución de Esquemas.** Versionado de bases de datos. Versionado de código y versionado de esquemas. Migraciones. Creación, modificación y eliminación de estructuras de datos. Estrategias de aplicación incremental y reversible de cambios.
+
+**Automatización y Despliegue.** Automatización de cambios. Integración con sistemas de control de versiones. Gestión de entornos. Despliegue de cambios en distintos ambientes. Riesgos y mecanismos de rollback.
+
+**Nuevos Modelos de Datos.** Introducción a minería de datos. Bases de datos NoSQL y sus principales modelos.
+
+## Web I (16) {#web-i-(16)}
+
+| Carga Horaria | 175 hs. (60 IP \+ 115 TA) |  | Créditos | 7 (siete) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura profundiza y amplía los conocimientos iniciados en Diseño Web, incorporando los principios, metodologías y tecnologías necesarios para el desarrollo de aplicaciones web dinámicas e integradas.
+
+A partir de los fundamentos del funcionamiento de Internet y de la construcción de interfaces web, se abordan los modelos de desarrollo de aplicaciones distribuidas basadas en arquitecturas cliente-servidor, la gestión de datos, la integración mediante servicios web y la comunicación entre sistemas.
+
+El espacio promueve el desarrollo de soluciones web que integran componentes de frontend y backend, permitiendo a los y las estudiantes comprender el ciclo completo de construcción, despliegue y mantenimiento de aplicaciones para Internet. Asimismo, incorpora conceptos vinculados con la seguridad, la interoperabilidad, la escalabilidad y la organización de aplicaciones web modernas.
+
+En este contexto, la asignatura contribuye al desarrollo de competencias profesionales asociadas al diseño, implementación, integración y puesta en producción de aplicaciones web, favoreciendo la construcción de soluciones tecnológicas acordes con las necesidades actuales del ámbito productivo y de servicios.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de desarrollar e implementar una aplicación de internet compleja y dinámica usando lenguajes de marcado, de estilos y de programación en la web. Además, cada estudiante deberá:
+
+* diseñar y desarrollar aplicaciones web dinámicas utilizando arquitecturas cliente-servidor;
+
+* implementar componentes de frontend y backend integrados mediante APIs y servicios web;
+
+* gestionar datos mediante operaciones de validación, persistencia y recuperación de información;
+
+* comprender la programación orientada a eventos;
+
+* aplicar mecanismos básicos de seguridad, autenticación y autorización;
+
+* integrar aplicaciones web con servicios externos y recursos del entorno cliente;
+
+* desplegar aplicaciones web en entornos de producción;
+
+* evaluar decisiones de diseño vinculadas a escalabilidad, mantenimiento e integración de sistemas.
+
+### **Contenidos Mínimos**
+
+**Arquitectura cliente-servidor y funcionamiento del protocolo HTTP.** Desarrollo de aplicaciones web dinámicas del lado del servidor. Organización, estructuración y modularización de aplicaciones web. Gestión de rutas, solicitudes y respuestas. Validación, procesamiento y persistencia de datos. Implementación de operaciones CRUD sobre fuentes de datos.
+
+**Diseño e implementación de APIs y servicios web.** Integración e intercambio de información entre aplicaciones y sistemas distribuidos. Comunicación síncrona y bidireccional entre componentes de una aplicación web. WebSockets y comunicaciones en tiempo real. Consumo y publicación de servicios basados en estándares web.
+
+**Mecanismos de autenticación y autorización.** Gestión de sesiones. Principios fundamentales de seguridad en aplicaciones web y protección de datos.
+
+**Desarrollo de interfaces web basadas en componentes.** Manipulación del DOM y programación orientada a eventos. Gestión de estado en aplicaciones web. Navegación y enrutamiento del lado del cliente. Interacción con APIs y servicios externos. Acceso a capacidades y recursos del dispositivo cliente desde aplicaciones web.
+
+**Principios de arquitectura distribuida y desarrollo multicapa.** Diseño, despliegue y puesta en producción de aplicaciones web. Estrategias básicas de optimización, escalabilidad y mantenimiento de aplicaciones para Internet.
+
+## Inteligencia Artificial (17) {#inteligencia-artificial-(17)}
+
+| Carga Horaria | 100 hs. (45 IP \+ 55 TA) |  | Créditos | 4 (cuatro) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+La Inteligencia Artificial constituye una de las áreas de mayor crecimiento e impacto en el desarrollo de software contemporáneo. Sus técnicas permiten construir sistemas capaces de aprender a partir de datos, reconocer patrones, realizar predicciones, asistir en la toma de decisiones e interactuar con personas mediante lenguaje natural, imágenes y otros tipos de información.
+
+La asignatura introduce los fundamentos de la Inteligencia Artificial y del Aprendizaje Automático, abordando los principales enfoques utilizados actualmente para el análisis de datos y la construcción de modelos predictivos. Asimismo, presenta los conceptos esenciales del aprendizaje profundo y de la inteligencia artificial generativa, favoreciendo una comprensión crítica de sus posibilidades, limitaciones y ámbitos de aplicación.
+
+Desde una perspectiva práctica, la materia promueve la utilización de bibliotecas y herramientas especializadas para el desarrollo de soluciones basadas en Inteligencia Artificial, permitiendo integrar modelos y servicios inteligentes en aplicaciones de software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante pueda:
+
+* comprender los fundamentos de la Inteligencia Artificial y su aplicación en distintos ámbitos del desarrollo de software;
+
+* identificar problemas susceptibles de ser abordados mediante técnicas de aprendizaje automático;
+
+* aplicar algoritmos de aprendizaje supervisado, no supervisado y por refuerzo utilizando herramientas y bibliotecas especializadas;
+
+* entrenar, evaluar e interpretar modelos de aprendizaje automático para tareas de clasificación, regresión y agrupamiento;
+
+* comprender los principios básicos del aprendizaje profundo y las redes neuronales artificiales;
+
+* reconocer aplicaciones de visión por computadora, procesamiento de lenguaje natural e inteligencia artificial generativa;
+
+* integrar herramientas y servicios basados en Inteligencia Artificial dentro de aplicaciones de software;
+
+* analizar críticamente las limitaciones, riesgos y aspectos éticos asociados al uso de sistemas de Inteligencia Artificial.
+
+### **Contenidos Mínimos**
+
+**Introducción a la Inteligencia Artificial.** Conceptos fundamentales. Historia y evolución. Áreas de aplicación. Relación entre Inteligencia Artificial, Ciencia de Datos y Aprendizaje Automático.
+
+**Aprendizaje Automático.** Aprendizaje supervisado, no supervisado y por refuerzo. Clasificación, regresión y agrupamiento. Conjuntos de entrenamiento y prueba. Evaluación de modelos.
+
+**Redes Neuronales y Aprendizaje Profundo.** Perceptrón. Redes neuronales multicapa. Conceptos fundamentales de aprendizaje profundo. Redes convolucionales y recurrentes.
+
+**Aplicaciones de Inteligencia Artificial.** Procesamiento de Lenguaje Natural. Visión por Computadora. Sistemas de recomendación.
+
+**Inteligencia Artificial Generativa.** Modelos fundacionales. Grandes modelos de lenguaje (LLM). Generación de texto e imágenes. Uso de asistentes inteligentes y herramientas de apoyo al desarrollo de software.
+
+**Programación Aplicada a la Inteligencia Artificial.** Uso de bibliotecas especializadas para entrenamiento, evaluación e integración de modelos de Inteligencia Artificial en aplicaciones de software.
+
+**Aspectos Éticos y Sociales.** Sesgos, privacidad, transparencia, limitaciones y uso responsable de sistemas de Inteligencia Artificial.
+
+## Ingeniería de Software (18) {#ingeniería-de-software-(18)}
+
+| Carga Horaria | 125 hs. (60 IP \+ 65 TA) |  | Créditos | 5 (cinco) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Sobre la base de los modelos y requisitos obtenidos durante las actividades de análisis y diseño de sistemas, la Ingeniería de Software aborda los principios, métodos y prácticas necesarios para construir soluciones de software de calidad, mantenibles y alineadas con las necesidades de las organizaciones y las personas usuarias.
+
+La asignatura estudia los procesos de desarrollo de software y las distintas metodologías utilizadas en la industria, tanto tradicionales como ágiles, analizando su impacto sobre la planificación, organización y ejecución de proyectos. Asimismo, introduce conceptos fundamentales relacionados con la calidad del software, la productividad, la escalabilidad y la mantenibilidad de las soluciones desarrolladas.
+
+Se incorporan además herramientas de diseño orientadas a promover la modularidad, la reutilización y la reducción de la complejidad mediante principios de diseño, patrones y nociones de arquitectura de software. Estos conocimientos permiten organizar sistemas de manera eficiente, favoreciendo su evolución y adaptación a nuevos requerimientos.
+
+De esta manera, la asignatura proporciona a las y los estudiantes criterios y herramientas para transformar modelos conceptuales y requisitos en diseños técnicos sólidos, aplicando buenas prácticas profesionales para la construcción de software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante pueda:
+
+* comprender los principios fundamentales de la Ingeniería de Software y su contribución a la calidad, productividad y sostenibilidad de los proyectos de software;
+
+* analizar y comparar metodologías tradicionales y ágiles para el desarrollo de software;
+
+* aplicar principios de diseño orientados a la modularidad, la abstracción, la cohesión y el bajo acoplamiento;
+
+* utilizar patrones de diseño para resolver problemas recurrentes en la construcción de software;
+
+* comprender los fundamentos de la arquitectura de software y su relación con los atributos de calidad de un sistema;
+
+* identificar y aplicar mecanismos de reutilización de software en distintos contextos de desarrollo;
+
+* evaluar alternativas de diseño considerando criterios de mantenibilidad, extensibilidad, escalabilidad y calidad;
+
+* elaborar diseños técnicos alineados con los requisitos y modelos obtenidos durante las actividades de análisis de sistemas.
+
+### **Contenidos Mínimos**
+
+**Fundamentos de Ingeniería de Software.** Calidad, productividad, escalabilidad y mantenibilidad. Procesos de desarrollo de software.
+
+**Metodologías de Desarrollo.** Modelos tradicionales. Desarrollo iterativo e incremental. Manifiesto Ágil. Scrum, Kanban, XP y Lean.
+
+**Diseño de Software.** Modularidad, abstracción, encapsulamiento. Cohesión y acoplamiento. Buenas prácticas de diseño.
+
+**Patrones y Reutilización.** Patrones de diseño creacionales, estructurales y de comportamiento. Reutilización de software y mecanismos de reutilización.
+
+**Arquitectura de Software.** Conceptos fundamentales de arquitectura. Organización de componentes y responsabilidades. Relación entre arquitectura, diseño y calidad del software.
+
+## Programación III (19) {#programación-iii-(19)}
+
+| Carga Horaria | 125 hs. (60 IP \+ 65 TA) |  | Créditos | 5 (cinco) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura profundiza la formación en desarrollo de software mediante la construcción de aplicaciones destinadas a dispositivos inteligentes y entornos conectados. El creciente uso de dispositivos móviles, aplicaciones web avanzadas y sistemas vinculados al Internet de las Cosas ha impulsado la necesidad de desarrollar soluciones capaces de ejecutarse en múltiples plataformas y adaptarse a distintos contextos de uso.
+
+La materia aborda los principios, modelos y herramientas para el desarrollo de aplicaciones multiplataforma, considerando aspectos relacionados con la interfaz de usuario, la interacción con recursos del dispositivo, la conectividad, la seguridad y la distribución de aplicaciones. Asimismo, se estudian las estrategias que permiten construir soluciones reutilizables y portables sobre distintos sistemas operativos y dispositivos.
+
+Asimismo, la asignatura contempla la utilización de emuladores, simuladores, herramientas de virtualización y entornos de prueba que permitan experimentar, validar y evaluar funcionalidades asociadas a distintos dispositivos y plataformas, favoreciendo el desarrollo de experiencias formativas accesibles tanto en contextos presenciales como en propuestas remotas o híbridas.
+
+De esta manera, la asignatura proporciona los conocimientos necesarios para diseñar, implementar, probar y distribuir aplicaciones modernas orientadas a dispositivos conectados, utilizando tecnologías y marcos de desarrollo acordes a las tendencias actuales de la industria.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que el/la estudiante pueda:
+
+* comprender los fundamentos del desarrollo de aplicaciones para dispositivos inteligentes y entornos conectados;
+
+* analizar distintos enfoques de desarrollo multiplataforma y evaluar sus ventajas y limitaciones;
+
+* diseñar e implementar aplicaciones utilizando tecnologías multiplataforma adecuadas para distintos dispositivos y sistemas operativos;
+
+* desarrollar interfaces de usuario adaptables considerando distintos tamaños de pantalla y modalidades de interacción;
+
+* acceder y utilizar recursos provistos por los dispositivos respetando modelos de permisos y criterios de seguridad;
+
+* integrar mecanismos de comunicación, persistencia y acceso a servicios externos en aplicaciones móviles y web;
+
+* utilizar herramientas de prueba, depuración y distribución de aplicaciones;
+
+* desplegar y distribuir aplicaciones a través de distintos mecanismos y plataformas de publicación.
+
+### **Contenidos Mínimos**
+
+**Desarrollo Multiplataforma.** Conceptos y estrategias para el desarrollo de aplicaciones multiplataforma. Aplicaciones nativas, híbridas, progresivas y compiladas para múltiples destinos. Tecnologías y herramientas de desarrollo.
+
+**Arquitectura de Aplicaciones para Dispositivos.** Organización de aplicaciones. Ciclo de vida. Gestión del estado. Navegación y comunicación entre componentes.
+
+**Interfaces de Usuario.** Diseño e implementación de interfaces para dispositivos inteligentes. Componentes visuales. Diseño adaptable. Multimedia. Accesibilidad. Animaciones e interacción con el usuario.
+
+**Acceso a Recursos del Dispositivo.** Conectividad de red. Cámara. Geolocalización. Sensores. Bluetooth. NFC. Audio y otros recursos provistos por la plataforma. Gestión de permisos y seguridad.
+
+**Persistencia y Comunicación.** Almacenamiento local. Sincronización de datos. Consumo de servicios y APIs. Comunicación con sistemas remotos.
+
+**Pruebas y Depuración.** Herramientas de desarrollo. Emulación y simulación de dispositivos. Diagnóstico y resolución de problemas. Validación de funcionalidades mediante entornos de prueba físicos o virtualizados.
+
+**Distribución de Aplicaciones.** Empaquetado, despliegue y distribución. Tiendas de aplicaciones. Publicación de aplicaciones web. Actualizaciones y mantenimiento.
+
+## Web II (20) {#web-ii-(20)}
+
+| Carga Horaria | 175 hs. (60 IP \+ 115 TA) |  | Créditos | 7 (siete) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Esta asignatura profundiza la formación iniciada en Web I, incorporando principios, arquitecturas y herramientas orientadas al desarrollo profesional de aplicaciones backend. Mientras que en el espacio previo se aborda la construcción de aplicaciones web completas y los mecanismos fundamentales de comunicación entre componentes, en esta asignatura se estudian estrategias de organización, persistencia e integración que permiten desarrollar soluciones más robustas, mantenibles y escalables.
+
+El espacio introduce enfoques de diseño utilizados en la industria del software para la construcción de servicios y aplicaciones del lado del servidor, abordando aspectos vinculados con la organización en capas, la separación de responsabilidades, la gestión de la persistencia de datos y la construcción de interfaces de comunicación entre sistemas. Asimismo, incorpora mecanismos de autenticación, autorización y seguridad, así como técnicas para la documentación, evolución y mantenimiento de APIs y servicios web.
+
+La asignatura contribuye al desarrollo de competencias profesionales asociadas al diseño, implementación, integración, despliegue y mantenimiento de aplicaciones backend, permitiendo a los y las estudiantes comprender el funcionamiento de sistemas distribuidos y participar en el desarrollo de soluciones tecnológicas acordes con las prácticas actuales de la industria del software.
+
+### **Objetivos**
+
+Al finalizar la asignatura, se espera que los y las estudiantes sean capaces de desarrollar e implementar servicios backend para una aplicación de internet compleja y dinámica usando lenguajes de programación, frameworks y bibliotecas de desarrollo web en servidores web. Además, cada estudiante deberá:
+
+* diseñar aplicaciones backend organizadas mediante arquitecturas en capas y principios de separación de responsabilidades;
+
+* aplicar patrones de arquitectura de software para construir soluciones mantenibles, reutilizables y escalables;
+
+* implementar mecanismos de persistencia de datos utilizando herramientas de mapeo objeto-relacional y repositorios;
+
+* gestionar la evolución del modelo de datos mediante estrategias de versionado y migración de esquemas de bases de datos;
+
+* diseñar, implementar y consumir servicios web utilizando protocolos y estándares de comunicación para aplicaciones distribuidas;
+
+* aplicar modelos de procesamiento síncrono y asíncrono en la implementación de servicios backend;
+
+* diseñar, desarrollar, documentar y versionar APIs siguiendo los principios de la arquitectura REST;
+
+* implementar mecanismos de validación de datos, manejo de errores y tratamiento de excepciones en aplicaciones backend;
+
+* gestionar mecanismos de autenticación, autorización y sesiones aplicando principios básicos de seguridad informática;
+
+* implementar mecanismos de comunicación entre aplicaciones y sistemas distribuidos mediante servicios web y llamadas a procedimientos remotos;
+
+* desplegar, configurar y distribuir aplicaciones backend en entornos de ejecución apropiados.
+
+### **Contenidos Mínimos**
+
+**Arquitecturas de aplicaciones backend.** Organización de aplicaciones en capas. Patrones de arquitectura de software. Separación de responsabilidades y modularización.
+
+**Persistencia de datos en aplicaciones backend.** Mapeo objeto-relacional (ORM). Gestión de entidades, relaciones y repositorios. Integración con sistemas gestores de bases de datos. Versionado y migración de esquemas de bases de datos.
+
+**Diseño, implementación y consumo de servicios web.** Protocolo HTTP. Procesamiento síncrono y asíncrono. Arquitectura REST y principios RESTful. HATEOAS. Desarrollo, documentación y versionado de APIs. Manejo de errores y validación de datos.
+
+**Gestión de sesiones.** Autenticación y autorización. Principios de seguridad aplicados al desarrollo backend.
+
+**Comunicación entre aplicaciones y sistemas distribuidos.** Introducción a mecanismos de llamada a procedimientos remotos (RPC y gRPC).
+
+**Despliegue, configuración y distribución de aplicaciones backend.**
+
+## Trabajo Final Integrador {#trabajo-final-integrador}
+
+| Carga Horaria | 225 hs. (30 IP \+ 195 TA) |  | Créditos | 9 (nueve) |
+| :---- | :---- | ----- | :---- | :---- |
+
+### **Fundamentación**
+
+Este espacio curricular está destinado a la integración, aplicación y validación de las competencias adquiridas a lo largo de la carrera mediante la realización de un trabajo de desarrollo de software, práctica profesional o actividad de investigación en contextos reales o simulados de desempeño profesional.
+
+Constituye la instancia de síntesis del trayecto formativo y la evidencia final del logro del perfil de egreso.
+
+El Trabajo Final Integrador consiste en el desarrollo de un proyecto tecnológico, una práctica profesional o una actividad de investigación aplicada que permita evidenciar la integración de las competencias adquiridas durante la carrera.
+
+### **Modalidades Ejecución y Criterios Generales de Enseñanza y Evaluación**
+
+La propuesta se desarrollará bajo una modalidad de tutoría académica individual o grupal orientada al acompañamiento del proyecto seleccionado por el/la estudiante. Las actividades incluirán reuniones periódicas con el/la docente tutor/a, seguimiento de avances, revisión de entregables y orientación metodológica para el desarrollo del trabajo.
+
+La evaluación será continua y formativa durante todo el proceso de ejecución del proyecto. Se considerarán el grado de avance alcanzado, la calidad técnica de los productos generados, la capacidad para integrar conocimientos provenientes de diferentes espacios curriculares, la documentación elaborada y el cumplimiento de los objetivos establecidos en el plan de trabajo. La acreditación final requerirá la presentación de las evidencias previstas y la defensa oral ante tribunal evaluador.
+
+Se espera que los/las estudiantes trabajen en una de las siguientes alternativas:
+
+1. una práctica profesional o pasantía en una empresa o institución local, nacional o internacional del sector productivos y/o de servicios, en donde tenga asignadas tareas inherentes al rol de una persona que realiza tareas de programación de software;
+
+2. una práctica profesional en proyectos concretos desarrollados por la Universidad Nacional de Villa Mercedes u otra institución educativa, para sí mismas o el sector productivo y/o de servicios, o en cooperación con ellos, en donde tenga asignadas tareas inherentes al rol de una persona que realiza tareas de programación de software;
+
+3. un trabajo de investigación en la Universidad Nacional de Villa Mercedes u otra institución educativa o del medio productivo, con relación a la industria del software o con asignación de tareas inherentes al desarrollo de software;
+
+4. un trabajo de desarrollo de software de iniciativa propia orientado en alguna de las áreas del conocimiento revisadas a lo largo de la carrera.
+
+Las actividades vinculadas al Trabajo Final Integrador podrán desarrollarse en ámbitos presenciales, remotos o híbridos, de acuerdo con las características de la propuesta, las condiciones institucionales y los objetivos formativos previstos.
+
+Cada Trabajo Final Integrador contará con un/a Docente Tutor/a perteneciente al cuerpo docente de la carrera.
+
+El/la estudiante propondrá un/a docente para desempeñar dicha función. La designación requerirá la aceptación del/de la docente propuesto/a y la aprobación de la Comisión de Carrera.
+
+El/la Docente Tutor/a tendrá a su cargo la orientación académica del trabajo, el acompañamiento de su desarrollo, la supervisión del cumplimiento del plan de trabajo y la emisión de un aval para su presentación ante el tribunal evaluador.
+
+### **Objetivos**
+
+Con esta asignatura final se espera que el/la estudiante pueda aplicar en un contexto real todo lo aprendido durante el cursado de su carrera a la vez que:
+
+* adquiere experiencia práctica complementaria que favorezca su inserción en el ámbito laboral;
+
+* conoce las condiciones en las cuales las programadoras y los programadores se insertan en el medio productivo;
+
+* interactúa con otras personas desarrolladoras de software o con diferentes roles para resolver problemas de gestión, diseño e implementación, en el marco del desarrollo de un proyecto de software, trabajo de investigación o producto tecnológico innovador;
+
+* desarrolla habilidades para la comunicación oral y escrita fomentando la producción de textos escritos propios y exposiciones orales formalizadas;
+
+* consolida los principios y las prácticas de desarrollo de software aplicados en el desarrollo de un sistema de software concreto;
+
+* integra los conocimientos obtenidos en las distintas asignaturas.
+
+### **Contenidos Mínimos**
+
+Integración de saberes disciplinares. Formulación y planificación de proyectos tecnológicos. Metodologías para el desarrollo de software y la gestión de proyectos. Técnicas de relevamiento, análisis, diseño, implementación y validación de soluciones informáticas. Documentación técnica y profesional. Elaboración de informes académicos y técnicos. Metodologías básicas de investigación aplicada en informática. Comunicación oral de resultados. Presentación y defensa de proyectos.
+
+### **Evidencias de Aprendizaje**
+
+El/la estudiante deberá presentar:
+
+1. Plan de trabajo aprobado.
+
+2. Registro de actividades desarrolladas.
+
+3. Producto tecnológico, desarrollo de software, informe de investigación o evidencia equivalente según la modalidad elegida.
+
+4. Informe final integrador.
+
+5. Defensa oral ante tribunal evaluador.
+
+### **Requisitos de Acreditación**
+
+Para acreditar este espacio curricular, el/la estudiante deberá:
+
+1. **Desarrollar y completar una experiencia integradora de carácter profesional, tecnológico o de investigación**, cuya complejidad, alcance y profundidad resulten acordes con el perfil de egreso de la carrera y permitan evidenciar la aplicación integrada de los conocimientos y competencias adquiridos durante su formación.
+
+2. **Cumplir el plan de trabajo oportunamente aprobado**, alcanzando los objetivos, productos, entregables y resultados comprometidos en la propuesta presentada.
+
+3. **Generar evidencias verificables de desempeño profesional**, consistentes con la modalidad elegida, que den cuenta de actividades de análisis, diseño, implementación, validación, documentación, comunicación de resultados u otras pertinentes al trabajo desarrollado.
+
+4. **Elaborar y presentar un informe final integrador**, en el que se describa el problema abordado, la metodología empleada, las actividades realizadas, los resultados alcanzados, las dificultades encontradas y los aprendizajes obtenidos.
+
+5. **Realizar una presentación y defensa oral** del trabajo desarrollado ante el tribunal evaluador, demostrando dominio conceptual, técnico y metodológico sobre la experiencia realizada.
+
+6. **Obtener dictamen favorable del tribunal evaluador**, el cual valorará el grado de cumplimiento de los resultados de aprendizaje previstos, la calidad de las evidencias presentadas y la consistencia del trabajo con el perfil de egreso de la carrera.
+
+# Seguimiento y evaluación del plan de estudios {#seguimiento-y-evaluación-del-plan-de-estudios}
+
+Con el fin de garantizar la calidad académica de la propuesta formativa y asegurar su adecuación permanente a las necesidades de formación profesional, la carrera implementará un proceso sistemático de seguimiento y evaluación del Plan de Estudios durante su puesta en marcha y desarrollo.
+
+El seguimiento estará a cargo de la Comisión de Carrera, con participación de docentes, estudiantes y autoridades académicas, quienes relevarán periódicamente información cuantitativa y cualitativa vinculada con el funcionamiento de la propuesta curricular.
+
+Entre los aspectos a monitorear se contemplarán:
+
+* la evolución de la matrícula y la retención estudiantil;
+
+* los niveles de regularización, acreditación y egreso;
+
+* los tiempos reales de permanencia y graduación;
+
+* el desempeño académico en los distintos espacios curriculares;
+
+* la adecuación de las cargas de trabajo previstas en Créditos de Referencia del Estudiante (CRE);
+
+* la coherencia y articulación entre los espacios curriculares;
+
+* el grado de logro de las competencias previstas en el perfil de egreso;
+
+* la satisfacción de estudiantes, docentes y personas egresadas respecto de la propuesta formativa;
+
+* la pertinencia de los contenidos y tecnologías abordadas en relación con la evolución de la disciplina y las demandas del contexto profesional.
+
+A tal fin podrán utilizarse diferentes estrategias e instrumentos de recolección de información, tales como análisis de indicadores académicos, encuestas, entrevistas, reuniones de trabajo con docentes y estudiantes, informes de espacios curriculares, análisis de resultados del Trabajo Final Integrador y consultas a personas graduadas y actores del sector socioproductivo vinculados con el campo profesional.
+
+La información obtenida será sistematizada anualmente por la Comisión de Carrera y utilizada para elaborar informes de seguimiento que permitan identificar fortalezas, dificultades y oportunidades de mejora en la implementación del plan.
+
+Finalizado el ciclo completo correspondiente a la primera cohorte, se realizará una evaluación integral de la propuesta curricular considerando los resultados obtenidos durante su implementación. Sobre la base de dicha evaluación podrán proponerse ajustes, mejoras o adecuaciones que contribuyan al fortalecimiento de la calidad académica de la carrera, respetando la normativa institucional vigente.
+
+\_\_\_\_\_\_\_\_\_\_
+
+[image1]: <data:image/png;base64,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>
+
+[image2]: <data:image/png;base64,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e2lbaEkZF1xQ91CLCLaJEyfW7axAhwawQKtmxIgRJpQRre7du5sw6HtGQaGVHO0n219hdY++9BPmK1pyCxNa77//flF644039uKrrrqqETaa/fbbryiN86SFFtAjWvLHcPXVV/fycOyiRYvcL774wkuDn376qSgN8CdU+PLLL30CS9AjWmFv+6DQSo+yhdbCt2ZLhhcO2GiTorR9Qobfeo/bZcWVfNthG/fpZ8LmzepGuG654h++D05qKIf40X6KY6UILdhaa63l5XXo0MFt3769idtCa5dddjH/rg488ED36KOP9vJtoSXHaaE1ZcqUup0LoGNaZpllvE6wb9++vk4H+wARWnY9TAKFVnK0n+IYfenH7ldp5VmY0NLYwgr+DxJae+21V1Ea+0UJLWzDPugbwa677urti3x7RF/aQZDQQp8nfdi8efN8fZ4gQgt3knBH4IorrlB71BEltKKMQstP2ULLynCnvDDehLdccYMJF0x8z9cZtGnd2n38juFevlQMmNxCfPHhUe5vt9jKd2wpZlfEONiVWnjttdd0lqHce+bjx483IV48WQoy8vPDDz+oLfWj/RTHShFaNvq2nAgt3Mb773//a+IQWnfeeae3T5wRLS20ZL8tt9yyKN+ea4GOCIjQssVgEtIUWvit9957r86uOqeeeqoXX2GFFawtfsLaRhTaT3Esri/Rod1xxx06u2yiPn/atGnu7bff7k6YMEFv8kjip7j7ptE/0uosSmjZo1r2C+IhUuIKrRdeeMFLi9C67LLLTLj88sub8JJLLjHh2muvXbejW3cs/hTiVqGkQZDQ0rcBo4TWo48+6qUbUmi9/vrrOiuQq666yotHtUW0HdsARgrre1H4xx9/7F0T6kPKlet3HFIVWmNHvuJr/EFpsTNPOK0oLULrpUeecbcfvI1R6PqDk1rUSQkCFxa7guIeeFgZG2ywgc5KRFAjTcJGG21kwrgVxEb7yfaXPmdi5QotyRMBZI9oQTTtu+++RmjJfpgHYQutBQsWmPz6hBYEKPaTIXHEdaez4YYbmny5hShztGTULC5pCi3pKEsV3g1B0t8ItJ9sf4XVvTifg870888/N3HcLo4rWOIQ9fn2trD9wvKDiLtvmK9oyS1KaN10003G17g+AcwJlfmkQX24CC0cgzlSAtKYPyVCCwILeeuss44JZdQL/RnSEO9S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>
+
+[image3]: <data:image/png;base64,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ap4a3caKgvYpTzPOMKN+edvz7LPPZnyS9uYKWmyHbrRPZa/CD1ovjn1afxaSxHsQribfjmsHLXtZY8aMSSZNmpRstNFGyT//+c9k1llnTacPGDAg+eqrr8xw7969TXn22Web8ptvvkl++OGH5MMPP0yGDRuWvPLKK8kWW2yR9O3bN+nTp0/nwstged9//326XCnxOh+Kto0pf/n2k6KifcoTPXSjfcoTPXSjfSp7xaAVK0U7CPt2XLxelvHJJ5+kwwhawnrrrWeCFrjxxhvT+uOPPz5ZYYUV0nGAoDVkyJB0HOEKQQustNJKaT3QAWveeeetGO8uRdvGlL9821RR0T7liR660T7liR660T6VvWLQihV9EOalw6lntHB2ar/99jPDdtDad99906B16qmnpvU2sh4IWghgwsILL1xz0Jppppnsyd0m1u2J9Y513UOXbz8pKtqnPNFDN9on8YqXDmtH+1T2ikErVop2IPPtuLi59d577zXD0003nSn/9re/maD1wAMPpJcGJWiBHj16JG+99ZYZxvv/61//MnUAQQvcc889yXzzzWeG84LWO++8UxG43nvvveTyyy+vmK9eiraNKX/59pOion3KU4ge4kbqkSNHmuG99947eeyxx9Qc9TPjjPXdi6Z9ylOIHoaA9qnsFYNWrBTtINysjmuf0YqNom1jyl/N6iexo33KU56Hyy+/fPLll1/qai+22morXdUSGLRaj/ap7FVzgtYto29I7rn2tkx9d8Sg5UYfhNv90mE1GLRaL6x3rOseuprVT2JH+5SnPA/1NIxvuummyY477mjGt9tuO/M4iTXXXDP52c9+ZuoeeeSRZMEFF0xfq8s555wz2WSTTczwUUcdldafe+655lE9gwYNMj/YAQ8//HCy1FJLpfPsueeeyfzzz5+eaRcw/dBDDzU/2AEnn3yyWQcbCVooEfZOP/30iuka7ZN4xUuHtaN9KnvVddCqZYe5ygorpfONGL530rNnz+Svf74gM193xKDlRm8XBq3iEev2xHrHuu6hi/3EjfYpT3keVpsm9QcffHDy+OOPVzxbD0ELIPTssMMO6bxS6jNaI0aMMKX9XhK0pG7//fc3y0PQAgh7NieddJIp1157bVMitAH7dgV9RqvaZxO0T+IVg1btaJ/KXuUHLXuH2aM8/M7EyRX1ej4Z1uN62bUqtKAl9+7Y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oaN9ikUMWo1D7yd/+OGHivFWoH3KU4gehoD2qewVg1as6KDV6EuHzz//vHndEkssoSfVxNJLL5188803yaeffqonedOdz+NC+5QnBi032idpb6622KjtVjS0T7GoqEGrR48eXc5TD//5z390VQZ8KRW23npra0r3mXHGGXVVLton8YqXDmtH+1T2ikErVvSBrBlB6x//+IcZxo5nqaWWSuaYYw4z/vHHHyf/+9//knPPPTfZYIMNzBOOhYEDBybXXXedCVoffPBB8txznb/WGzBggFkPPJ5i8ODBSe/evc3PirFsoX///snaa69thvELDtd6y0Ec/Pe//zXDU6ZMUXPVhvYpTwxabrRP0t5cbdG1PYnbwxhUxKClp2277bZmXyXcf//9yUwzzWSGZd+F/eQxxxyT7h+xf7NL7PtkGK/96U9/aobBzDPPnLzxxhvJa6+9ltbNPvvsyc0332yGTzzxxOSwww5LFl100XQ6uOSSS8zjVYR33nknXS9BghZ+2dqvX7+KaS60T+IVg1btaJ/KXjUmaD33wJPJAzfeZYYfv+0hsxHQCPV83RGDlhvXgayautMp7KBlPy9lnXXWMQHKtUw8FwggQCFo4dkijz32WDpvtXKLLbYwJdhnn30qptno1+myXrRPeWLQcqN9ylN3t1PR0T7FonYIWk8/3Xn8kXqEl5tuuin55S9/mc7zyCOPpPNeeeWVmf3SVlttlc4L1ltvPVPa7zVp0qSKOglGe+65pykXW2yxzhnLLLPMMqY877zzTCmve+KJJ9J59Bkt/dk02qc8dbWsdkX7VPYqP2jBTAjD7z49JTn5mBPM8J1Xj0m22XTqczfs+TDtN4ccnT45Gk/fveKcSzLLrlUMWm7E71rUnU6BoLXCCiskL7zwghnHMo477rhkkUUWMUELOxupxzcufKOSOmAHLZzlwj0Hsh66xPvI+I477miG8UBMvd76ddLu9Hy1on3KE4OWG+1Tnrq7nYqO9ikWtUPQEqT+4IMPTh5//HFzFkqQoAVWXrnzD8uBlHbQss9u2e+lg9ZFF12UvPTSS2nQ2nTTTdN5gez3sDwwalTnsxIvv/zydB4JWghtRx11VNXPJmif8tTVstoV7VPZq/yg9cojzxpDxVho+59skw7bpuOshwwvNmgxU77QEZKmn376innrVUhBS39DAPZp4FaiPW3mpUMb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9o4d7VOe6KEb7VMsqmc/TsWpuoPW2xMnZ+qq6ceD10heefS5TH29akTQOu+889IdFMphw4Ylf/jDH8z4rLPOmjz11FPJf/7zHzP+3HPPVcy7zjrrVIxXK5999tl0fPDgwclSSy2VfPDBB2a8d+/eyeqrr14RtHr27Jm+tjvU00Grvcdqq62W9OrVywwffvjhyY9//ON03gEDBiSTJk1KfRTmmGOO5C9/+UtyxhlnVHz+jz76yPhqv5cML7PMMmkd0EFLyiWXXDI555xzzPB0001nPN13333NOPzEtpllllnS18w444zJN998Y8bB5MmTzbYUb3/2s58lY8aMMf670D7liUHLjfYpT9XaYbujfcoTPXSjfYpF9ezHqThVArpSzWD0wI13m/FXH3s+t2Fg2vG/+rUZfmP8S+ZvGvQ89aq7QQsBAvryyy9N0AIffvhhcvDBB5th2WHJGS0ZP/TQQ5Ppp5++om7RRRetGNflfvvtVzEOBg0alOy4444VdXbQkvqf//znaV09uLYD6p574ElnvUavM4IW2H333dN5tt1228xrEbQQeMQjgHkQeCTgCFOmTElef/31zDIkaM0zzzym1H4CBC27Du8p47/4xS9ktorXyLCc0XIt10b7lCcGLTfaJ2lv1donyaJ9yhM9dKN9ikWufhKSqvVlqnaVgK60NeWxSckbT76c9J1pptRwMd21AQYOmNXUDR2ykXPevYbtkXmPrtTdoGWfiZGg9fXXX2cChgQt3AN05JFHmmGcWbHnwQPx7HFd7r333hXjM888sykRtHDWRbCD1kMPPZQOdwftvfhca9CSbSLTdNDSn1FA0BJc87jml7NQQrUzWkCHL8EOWiNHjkzrsd0EeY0OWtXQPuUptqCFs47CP//5T2tKY9E+SXuDXPUki/YpT/TQjfYpFrn6SUiq1pep2lUCulJr4ICB5owWzJYzWmK8vQF+OWx48uz9402dBK2555grne/Fcc90a4M1MmgBrAMC1wYbbJCOgyuvvDLZZZddKupQ4kyNPV5L2b9//2T06NHJlltumdx9993J1VdfbS5N6nu0ttpqq4rxeqjHS1kv/Xrw3XffJfvss0+XQeurr74yJYLThRdemJkHZ6/sOgHjn332WUUdgtYzzzyThlD7NfDLrrvjjjtMaQctgGXceOONyfPPP2/GwZAhQyrmQQj7/vvv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KU8MWm60T1Rz1eg+UBS0TxQVihi0IsYVtFDXjDNaCFoff/yxGbaX1aNHDzOO8vbbb6+YhrNYqAeHHXaY+ZWfvGauueYyw717907nwfBHH31kHrtwyimndC6kzIsvvmimy/JPPPFE788EtE95YtByo32S9uZqn5S/GtHui4j2iWqM2Jf91WXQOuagIypMfvWx53NNx7Qn73rYDPfs0TN33lrFoOXG5S3qmhm0LrzwQjN+4403JltuuaUZ3myzzUzZr18/Uw4YMMCUu+yyiyl/9atfJYcccogJWrIe77//vint9ao2bI9Luckmm5hyqaWWSufpDtqnPDFoudE+SXtztU/KX7pvkE60T1RjxL7srxLQlbZwtuHck/+crLjsCsnzD05IrjjnktT0RRcalFx8xnl6gUbXXnBFctbvT0v/PPitp15JFl5woczyaxGDlpt6Gr/vzlmC1sUXX2zGEbS+/PLL5IMPPkjPSKHE2SgIDBs2zJQ6aNnz2OuF4XfffTeZb775Musr7yH18l4S7rqL9ilPDFputE9Uc6X7BulE+0RRoajLoAWNHnlxstn6Q00HX2KRxUz559+dmqyw9HIVB/uxN99rAhbqhg7ZyJQ4IJbfKNl4vQ3rCgci36AlOybfHZTv68Fbb71lSizL9ZTxI488Mll77bV1tfO96/HS9fp6cAUtzYwzzlgxXi1o2djjGK62rXT9oEGD7MndRvuUp5iClva1mWifqOaq2duzHkJaF+0TRYWiEtCVWnJARzn5sUnpAdGeJsOioeVQNeccc2aWoZfflXTQkgO45qCDDtJVhmo7g8mTJ+sqL/r375/MOuusurrq+9eDaxkuL1HXjEuHBxxwQPL5558njzzyiBl/+ump2+S3v/1t8ve//z359ttvk8UXXzytv/TSS015ww03JNdff316w/uQIUOSPffc0wyPGDFCZk+Hl1lmmeTrr79O6wFC3nHHHZfOg/EllliiYp7uoH3KUz1BS/yu1XfxY1pw9dWdT7xfc801TakDc1don6S9udon5a9a25QvctYZ90YC1/u66kC97b8RaJ+oxoh92V8loCvVDMlWQ3+SnHHCn8zwHrv8wpS77/zzZMTwvSs2AIbH3znOlK6gdfSBh3drg1ULWtNPP71Z3iyzzGLGF1100eSnP/2pGV511VWTvn37mmHp7FJiB3LFFVeYcPDD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>
